@@ -188,7 +188,7 @@ http://192.168.0.1:1111/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
 http://192.168.0.1:1111/tptv/HD-20M-2160P-chunxiang4k?type=proxy
 
 #EXTINF:-1 tvg-id="高清臻享咪咕足球" tvg-name="高清臻享咪咕足球" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="TPTV-其他", 高清臻享咪咕足球
-http://192.168.0.1:1111/tptv/miguaoyun1-AVS?type=proxy
+http://192.168.0.1:1111/tptv/miguaoyun1-AVS-4K01?type=proxy
 
 #EXTINF:-1 tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="TPTV-其他", 咪咕精彩足球
 http://192.168.0.1:1111/tptv/HD-8000k-1080P-miguaoyun1?type=proxy
