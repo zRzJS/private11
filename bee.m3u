@@ -227,3 +227,6 @@ http://192.168.0.1:1111/beesport/Fox_Sports_1_Live_TV
 
 #EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="bee-體育", Fox Sports 2
 http://192.168.0.1:1111/beesport/Fox_Sports_2_Live_TV
+
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX News" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="bee-新聞資訊", FOX News
+http://192.168.0.1:1111/beesport/FOX_NEWS_Live_TV
