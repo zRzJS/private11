@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="iTV-央视", CCTV 1
 http://192.168.0.1:1111/itv/wasusyt/6000000001000029752
