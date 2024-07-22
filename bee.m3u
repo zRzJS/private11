@@ -78,7 +78,7 @@ http://192.168.0.1:1111/beesport/UK_Sky_Cinema_Comedy_Live_TV
 #EXTINF:-1 tvg-id="UK-Sky-Cinema-Family" tvg-name="Sky Cinema Family" tvg-logo="https://assets.livednow.com/logo/UK-Sky-Cinema-Family.png" group-title="Beesport", Sky Cinema Family
 http://192.168.0.1:1111/beesport/UK_Sky_Cinema_Family_Live_TV
 
-#EXTINF:-1 tvg-id="UK-Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/UK-Cartoon-Network.png" group-title="bee-少兒", Cartoon Network
+#EXTINF:-1 tvg-id="UK-Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/UK-Cartoon-Network.png" group-title="Beesport", Cartoon Network
 http://192.168.0.1:1111/beesport/UK_Cartoon_Network_Live_TV
 
 #EXTINF:-1 tvg-id="UK-Virgin-1" tvg-name="Virgin 1" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-1.png" group-title="Beesport", Virgin 1
