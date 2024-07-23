@@ -1,0 +1,788 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265001
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1 4K
+http://192.168.0.1:1111/tptv/G_CCTV-1-AVS-4K264?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视", CCTV 2
+http://192.168.0.1:1111/itv/ystenlive/1000000001000023315
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265003
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3 4K
+http://192.168.0.1:1111/tptv/G_CCTV-3-AVS-4K264?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视", CCTV 4
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265004
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265005
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5 4K
+http://192.168.0.1:1111/tptv/G_CCTV-5-AVS-4K264?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265016
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视", CCTV 6
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265006
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视", CCTV 6 20M
+http://192.168.0.1:1111/tptv/G_CCTV-6-AVS-4K264?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视", CCTV 7
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265007
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视", CCTV 8
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265008
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视", CCTV 8 20M
+http://192.168.0.1:1111/tptv/G_CCTV-8-AVS-4K264?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视", CCTV 9
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265009
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视", CCTV 10
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265010
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视", CCTV 11
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265011
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视", CCTV 12
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265012
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视", CCTV 13
+http://192.168.0.1:1111/itv/bestzb/5000000011000031108
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视", CCTV 14
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265013
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视", CCTV 15
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265014
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16
+http://192.168.0.1:1111/itv/ystenlive/1000000006000233002
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 4K
+http://192.168.0.1:1111/itv/bestzb/5000000008000023254
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265015
+
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视", CCTV 4K
+http://192.168.0.1:1111/tptv/G_CCTV-4K-HD?type=proxy
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视", CGTN
+http://192.168.0.1:1111/itv/hnbblive/7745129417417101820
+
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 记录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="央视", CGTN 记录
+http://192.168.0.1:1111/itv/hnbblive/7114647837765104058
+
+#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视", 中国教育电视台 1
+http://192.168.0.1:1111/itv/bestzb/5000000002000002652
+
+#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视", 中国教育电视台 4
+http://192.168.0.1:1111/itv/bestzb/5000000011000031126
+
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV 世界地理" tvg-logo="https://assets.livednow.com/logo/CCTV-世界地理.png" group-title="央视", CCTV 世界地理
+http://192.168.0.1:1111/tptv/G_SHIJIEDL-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV 风云剧场" tvg-logo="https://assets.livednow.com/logo/CCTV-风云剧场.png" group-title="央视", CCTV 风云剧场
+http://192.168.0.1:1111/tptv/G_FENGYUNJC-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV 风云足球" tvg-logo="https://assets.livednow.com/logo/CCTV-风云足球.png" group-title="央视", CCTV 风云足球
+http://192.168.0.1:1111/tptv/G_FENGSHANGZQ-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV 风云音乐" tvg-logo="https://assets.livednow.com/logo/CCTV-风云音乐.png" group-title="央视", CCTV 风云音乐
+http://192.168.0.1:1111/tptv/G_FENGYUNYY-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-name="CCTV 兵器科技" tvg-logo="https://assets.livednow.com/logo/CCTV-兵器科技.png" group-title="央视", CCTV 兵器科技
+http://192.168.0.1:1111/tptv/G_BINGQIKJ-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV 央视台球" tvg-logo="https://assets.livednow.com/logo/CCTV-央视台球.png" group-title="央视", CCTV 央视台球
+http://192.168.0.1:1111/tptv/G_TAIQIU-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-name="CCTV 高尔夫网球" tvg-logo="https://assets.livednow.com/logo/CCTV-高尔夫网球.png" group-title="央视", CCTV 高尔夫网球
+http://192.168.0.1:1111/tptv/G_CCTV-GOLF-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://assets.livednow.com/logo/CCTV-女性时尚.png" group-title="央视", CCTV 女性时尚
+http://192.168.0.1:1111/tptv/G_NVXINGSS-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV 电视指南" tvg-logo="https://assets.livednow.com/logo/CCTV-电视指南.png" group-title="央视", CCTV 电视指南
+http://192.168.0.1:1111/tptv/G_DIANSHIZN-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="https://assets.livednow.com/logo/CCTV-第一剧场.png" group-title="央视", CCTV 第一剧场
+http://192.168.0.1:1111/tptv/G_DIYIJC-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://assets.livednow.com/logo/CCTV-怀旧剧场.png" group-title="央视", CCTV 怀旧剧场
+http://192.168.0.1:1111/tptv/G_HUAIJIUJC-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://assets.livednow.com/logo/CCTV-央视文化精品.png" group-title="央视", CCTV 央视文化精品
+http://192.168.0.1:1111/tptv/G_CCTV-WENHUA-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="CETV-早期教育" tvg-name="CETV 早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="央视", CETV 早期教育
+http://192.168.0.1:1111/tptv/G_CETV-ZQJY-CQ?type=proxy
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视", 安徽卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265025
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视", 北京卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265027
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title="卫视", 东南卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265033
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视", 甘肃卫视
+http://192.168.0.1:1111/itv/bestzb/5000000011000031121
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视", 广东卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265034
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视", 广西卫视
+http://192.168.0.1:1111/itv/bestzb/5000000011000031118
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视", 贵州卫视
+http://192.168.0.1:1111/itv/bestzb/5000000004000025843
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视", 海南卫视
+http://192.168.0.1:1111/itv/bestzb/5000000004000006211
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://assets.livednow.com/logo/河北卫视.png" group-title="卫视", 河北卫视
+http://192.168.0.1:1111/itv/bestzb/5000000006000040016
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视", 河南卫视
+http://192.168.0.1:1111/itv/bestzb/5000000011000031119
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="卫视", 黑龙江卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265029
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视", 湖北卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265023
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视", 湖南卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265024
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视", 吉林卫视
+http://192.168.0.1:1111/itv/bestzb/5000000011000031117
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视", 江苏卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265030
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视", 江西卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265032
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title="卫视", 辽宁卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265022
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视", 青海卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000002000013359
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视", 山东卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265019
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="上海东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视", 上海东方卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265018
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视", 深圳卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265028
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title="卫视", 四川卫视
+http://192.168.0.1:1111/itv/bestzb/5000000004000006119
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" group-title="卫视", 天津卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265026
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视", 云南卫视
+http://192.168.0.1:1111/itv/bestzb/5000000011000031120
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视", 浙江卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265031
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title="卫视", 重庆卫视
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265017
+
+#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://assets.livednow.com/logo/凤凰卫视中文.png" group-title="卫视", 凤凰卫视中文
+http://192.168.0.1:1111/tptv/HD-10000k-1080P-fhchinese5s?type=proxy
+
+#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png" group-title="卫视", 凤凰卫视资讯
+http://192.168.0.1:1111/tptv/HD-10000k-1080P-fhzixun5s?type=proxy
+
+#EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="卫视", 凤凰卫视香港
+http://192.168.0.1:1111/tptv/HD-10000k-1080P-fhhongkong5s?type=proxy
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/三沙卫视.png" group-title="卫视", 三沙卫视
+http://192.168.0.1:1111/tptv/G_SANSHA-HQ?type=proxy
+
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://assets.livednow.com/logo/北京纪实科教.png" group-title="地方", 北京纪实科教
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265020
+
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="地方", 北京卡酷少儿
+http://192.168.0.1:1111/itv/bestzb/7851974109718180595
+
+#EXTINF:-1 tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://assets.livednow.com/logo/湖南金鹰纪实.png" group-title="地方", 湖南金鹰纪实
+http://192.168.0.1:1111/itv/bestzb/5000000011000031203
+
+#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="地方", 湖南快乐垂钓
+http://192.168.0.1:1111/itv/bestzb/5000000011000031206
+
+#EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="地方", 湖南茶频道
+http://192.168.0.1:1111/itv/bestzb/5000000011000031209
+
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海 ICS 外语" tvg-logo="https://assets.livednow.com/logo/上海ICS外语.png" group-title="地方", 上海 ICS 外语
+http://192.168.0.1:1111/itv/bestzb/5000000010000030951
+
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="地方", 上海第一财经
+http://192.168.0.1:1111/itv/bestzb/5000000010000027146
+
+#EXTINF:-1 tvg-id="上海东方财经" tvg-name="上海东方财经" tvg-logo="https://assets.livednow.com/logo/上海东方财经.png" group-title="地方", 上海东方财经
+http://192.168.0.1:1111/itv/bestzb/5000000007000010003
+
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://assets.livednow.com/logo/上海东方影视.png" group-title="地方", 上海东方影视
+http://192.168.0.1:1111/itv/bestzb/5000000010000032212
+
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://assets.livednow.com/logo/上海都市.png" group-title="地方", 上海都市
+http://192.168.0.1:1111/itv/bestzb/5000000010000018926
+
+#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="上海法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="地方", 上海法治天地
+http://192.168.0.1:1111/itv/hnbblive/2000000002000000014
+
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://assets.livednow.com/logo/哈哈炫动.png" group-title="地方", 上海哈哈炫动
+http://192.168.0.1:1111/itv/bestzb/5000000011000031123
+
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="地方", 上海纪实人文
+http://192.168.0.1:1111/itv/ystenlive/1000000005000265021
+
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://assets.livednow.com/logo/上海五星体育.png" group-title="地方", 上海五星体育
+http://192.168.0.1:1111/itv/bestzb/5000000010000017540
+
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://assets.livednow.com/logo/上海新闻综合.png" group-title="地方", 上海新闻综合
+http://192.168.0.1:1111/itv/bestzb/5000000011000031110
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京新闻综合频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京新闻综合频道
+http://192.168.0.1:1111/tptv/G_NJXW?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京影视频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京影视频道
+http://192.168.0.1:1111/tptv/G_NJYS?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京少儿频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京少儿频道
+http://192.168.0.1:1111/tptv/G_NJSE?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京生活频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京生活频道
+http://192.168.0.1:1111/tptv/G_NJSH?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京信息频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京信息频道
+http://192.168.0.1:1111/tptv/G_NJXX?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京娱乐频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京娱乐频道
+http://192.168.0.1:1111/tptv/G_NJYL?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京教科频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京教科频道
+http://192.168.0.1:1111/tptv/G_NJJK?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南京广播电视台" tvg-name="南京十八频道" tvg-logo="https://assets.livednow.com/logo/江苏南京广播电视台.png" group-title="地方", 南京十八频道
+http://192.168.0.1:1111/tptv/G_NJSB?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州新闻综合" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州新闻综合
+http://192.168.0.1:1111/tptv/xzxwzh?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州经济生活" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州经济生活
+http://192.168.0.1:1111/tptv/xzjjsh?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州文艺影视" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州文艺影视
+http://192.168.0.1:1111/tptv/xzwyys?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州公共" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州公共
+http://192.168.0.1:1111/tptv/xzgg?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州新沂3套" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州新沂3套
+http://192.168.0.1:1111/tptv/G_XZXYTV-3?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州沛县新闻综合" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州沛县新闻综合
+http://192.168.0.1:1111/tptv/xzpxxwzh?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州沛县综艺" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州沛县综艺
+http://192.168.0.1:1111/tptv/xzpxzy?type=proxy
+
+#EXTINF:-1 tvg-id="江苏徐州电视台" tvg-name="徐州沛县生活" tvg-logo="https://assets.livednow.com/logo/江苏徐州电视台.png" group-title="地方", 徐州沛县生活
+http://192.168.0.1:1111/tptv/xzpxsh?type=proxy
+
+#EXTINF:-1 tvg-id="江苏常州电视台" tvg-name="常州新闻" tvg-logo="https://assets.livednow.com/logo/江苏常州电视台.png" group-title="地方", 常州新闻
+http://192.168.0.1:1111/tptv/jsczxinwen?type=proxy
+
+#EXTINF:-1 tvg-id="江苏常州电视台" tvg-name="常州都市" tvg-logo="https://assets.livednow.com/logo/江苏常州电视台.png" group-title="地方", 常州都市
+http://192.168.0.1:1111/tptv/jsczdushi?type=proxy
+
+#EXTINF:-1 tvg-id="江苏常州电视台" tvg-name="常州生活" tvg-logo="https://assets.livednow.com/logo/江苏常州电视台.png" group-title="地方", 常州生活
+http://192.168.0.1:1111/tptv/jsczshenghuo?type=proxy
+
+#EXTINF:-1 tvg-id="江苏常州电视台" tvg-name="常州公共" tvg-logo="https://assets.livednow.com/logo/江苏常州电视台.png" group-title="地方", 常州公共
+http://192.168.0.1:1111/tptv/jsczgonggong?type=proxy
+
+#EXTINF:-1 tvg-id="江苏睢宁电视台" tvg-name="睢宁综合" tvg-logo="https://assets.livednow.com/logo/江苏睢宁电视台.png" group-title="地方", 睢宁综合
+http://192.168.0.1:1111/tptv/xzsnzh?type=proxy
+
+#EXTINF:-1 tvg-id="江苏睢宁电视台" tvg-name="睢宁资讯" tvg-logo="https://assets.livednow.com/logo/江苏睢宁电视台.png" group-title="地方", 睢宁资讯
+http://192.168.0.1:1111/tptv/xzsnzx?type=proxy
+
+#EXTINF:-1 tvg-id="江苏睢宁电视台" tvg-name="睢宁生活" tvg-logo="https://assets.livednow.com/logo/江苏睢宁电视台.png" group-title="地方", 睢宁生活
+http://192.168.0.1:1111/tptv/xzsnshjy?type=proxy
+
+#EXTINF:-1 tvg-id="江苏睢宁电视台" tvg-name="睢宁三农" tvg-logo="https://assets.livednow.com/logo/江苏睢宁电视台.png" group-title="地方", 睢宁三农
+http://192.168.0.1:1111/tptv/xzsnsn?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南通电视台" tvg-name="南通一套" tvg-logo="https://assets.livednow.com/logo/江苏南通电视台.png" group-title="地方", 南通一套
+http://192.168.0.1:1111/tptv/jsntyitao?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南通电视台" tvg-name="南通二套" tvg-logo="https://assets.livednow.com/logo/江苏南通电视台.png" group-title="地方", 南通二套
+http://192.168.0.1:1111/tptv/jsntertao?type=proxy
+
+#EXTINF:-1 tvg-id="江苏南通电视台" tvg-name="公共崇川" tvg-logo="https://assets.livednow.com/logo/江苏南通电视台.png" group-title="地方", 公共崇川
+http://192.168.0.1:1111/tptv/jsntsantao?type=proxy
+
+#EXTINF:-1 tvg-id="江苏镇江电视台" tvg-name="镇江一套" tvg-logo="https://assets.livednow.com/logo/江苏镇江电视台.png" group-title="地方", 镇江一套
+http://192.168.0.1:1111/tptv/G_ZHENJIANGTV-1?type=proxy
+
+#EXTINF:-1 tvg-id="江苏镇江电视台" tvg-name="镇江二套" tvg-logo="https://assets.livednow.com/logo/江苏镇江电视台.png" group-title="地方", 镇江二套
+http://192.168.0.1:1111/tptv/G_ZHENJIANGTV-2?type=proxy
+
+#EXTINF:-1 tvg-id="江苏镇江电视台" tvg-name="镇江三套" tvg-logo="https://assets.livednow.com/logo/江苏镇江电视台.png" group-title="地方", 镇江三套
+http://192.168.0.1:1111/tptv/G_ZHENJIANGTV-3?type=proxy
+
+#EXTINF:-1 tvg-id="江苏宿迁电视台" tvg-name="宿迁综合" tvg-logo="https://assets.livednow.com/logo/江苏宿迁电视台.png" group-title="地方", 宿迁综合
+http://192.168.0.1:1111/tptv/G_SQZH?type=proxy
+
+#EXTINF:-1 tvg-id="江苏宿迁电视台" tvg-name="宿迁公共" tvg-logo="https://assets.livednow.com/logo/江苏宿迁电视台.png" group-title="地方", 宿迁公共
+http://192.168.0.1:1111/tptv/G_SQGG?type=proxy
+
+#EXTINF:-1 tvg-id="江苏邳州电视台" tvg-name="邳州综合" tvg-logo="https://assets.livednow.com/logo/江苏邳州电视台.png" group-title="地方", 邳州综合
+http://192.168.0.1:1111/tptv/pzzonghe?type=proxy
+
+#EXTINF:-1 tvg-id="江苏邳州电视台" tvg-name="邳州综艺" tvg-logo="https://assets.livednow.com/logo/江苏邳州电视台.png" group-title="地方", 邳州综艺
+http://192.168.0.1:1111/tptv/pzzongyi?type=proxy
+
+#EXTINF:-1 tvg-id="江苏赣榆电视台" tvg-name="赣榆新闻综合" tvg-logo="https://assets.livednow.com/logo/江苏赣榆电视台.png" group-title="地方", 赣榆新闻综合
+http://192.168.0.1:1111/tptv/HD-2500k-1080P-ganyutv?type=proxy
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏仪化电视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="地方", 江苏仪化电视
+http://192.168.0.1:1111/tptv/HD-4000k-1080P-jsyihua?type=proxy
+
+#EXTINF:-1 tvg-id="华数-4K" tvg-name="华数 4K" tvg-logo="https://assets.livednow.com/logo/华数-4K.png" group-title="其他", 华数 4K
+http://192.168.0.1:1111/itv/wasusyt/6000000003000004748
+
+#EXTINF:-1 tvg-id="纯享-4K" tvg-name="纯享 4K" tvg-logo="https://assets.livednow.com/logo/纯享-4K.png" group-title="其他", 纯享 4K
+http://192.168.0.1:1111/itv/ystenlive/1000000004000011651
+
+#EXTINF:-1 tvg-id="高清臻享咪咕足球" tvg-name="高清臻享咪咕足球" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 高清臻享咪咕足球
+http://192.168.0.1:1111/tptv/miguaoyun1-AVS-4K01?type=proxy
+
+#EXTINF:-1 tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 咪咕精彩足球
+http://192.168.0.1:1111/tptv/HD-8000k-1080P-miguaoyun1?type=proxy
+
+#EXTINF:-1 tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 咪咕综合体育
+http://192.168.0.1:1111/tptv/HD-8000k-1080P-miguaoyun2?type=proxy
+
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕4K 1" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="NBA", 咪咕4K 1
+http://192.168.0.1:1111/itv/FifastbLive/3000000010000005180
+
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕4K 2" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="NBA", 咪咕4K 2
+http://192.168.0.1:1111/itv/FifastbLive/3000000010000015686
+
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕全民热练" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 咪咕全民热练
+http://192.168.0.1:1111/itv/FifastbLive/3000000020000031315
+
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://assets.livednow.com/logo/求索动物.png" group-title="其他", 求索动物
+http://192.168.0.1:1111/itv/wasusyt/6000000002000010046
+
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://assets.livednow.com/logo/求索纪录.png" group-title="其他", 求索纪录
+http://192.168.0.1:1111/itv/wasusyt/6000000002000032052
+
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://assets.livednow.com/logo/求索科学.png" group-title="其他", 求索科学
+http://192.168.0.1:1111/itv/wasusyt/6000000002000032344
+
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://assets.livednow.com/logo/求索生活.png" group-title="其他", 求索生活
+http://192.168.0.1:1111/itv/wasusyt/6000000002000003382
+
+#EXTINF:-1 tvg-id="NewTV-精品综合" tvg-name="NewTV 精品综合" tvg-logo="https://assets.livednow.com/logo/NewTV-精品综合.png" group-title="其他", NewTV 精品综合
+http://192.168.0.1:1111/itv/ystenlive/1000000004000019008
+
+#EXTINF:-1 tvg-id="NewTV-精品大剧" tvg-name="NewTV 精品大剧" tvg-logo="https://assets.livednow.com/logo/NewTV-精品大剧.png" group-title="其他", NewTV 精品大剧
+http://192.168.0.1:1111/itv/ystenlive/1000000004000013968
+
+#EXTINF:-1 tvg-id="NewTV-精品纪录" tvg-name="NewTV 精品纪录" tvg-logo="https://assets.livednow.com/logo/NewTV-精品纪录.png" group-title="其他", NewTV 精品纪录
+http://192.168.0.1:1111/itv/ystenlive/1000000004000013730
+
+#EXTINF:-1 tvg-id="NewTV-精品体育" tvg-name="NewTV 精品体育" tvg-logo="https://assets.livednow.com/logo/NewTV-精品体育.png" group-title="其他", NewTV 精品体育
+http://192.168.0.1:1111/itv/ystenlive/1000000004000014634
+
+#EXTINF:-1 tvg-id="NewTV-精品萌宠" tvg-name="NewTV 精品萌宠" tvg-logo="https://assets.livednow.com/logo/NewTV-精品萌宠.png" group-title="其他", NewTV 精品萌宠
+http://192.168.0.1:1111/itv/ystenlive/1000000006000032328
+
+#EXTINF:-1 tvg-id="NewTV-爱情喜剧" tvg-name="NewTV 爱情喜剧" tvg-logo="https://assets.livednow.com/logo/NewTV-爱情喜剧.png" group-title="其他", NewTV 爱情喜剧
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000010
+
+#EXTINF:-1 tvg-id="NewTV-超级电视剧" tvg-name="NewTV 超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="其他", NewTV 超级电视剧
+http://192.168.0.1:1111/itv/ystenlive/1000000006000268003
+
+#EXTINF:-1 tvg-id="NewTV-超级电影" tvg-name="NewTV 超级电影" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电影.png" group-title="其他", NewTV 超级电影
+http://192.168.0.1:1111/itv/ystenlive/1000000003000012426
+
+#EXTINF:-1 tvg-id="NewTV-超级体育" tvg-name="NewTV 超级体育" tvg-logo="https://assets.livednow.com/logo/NewTV-超级体育.png" group-title="其他", NewTV 超级体育
+http://192.168.0.1:1111/itv/ystenlive/1000000001000009601
+
+#EXTINF:-1 tvg-id="NewTV-超级综艺" tvg-name="NewTV 超级综艺" tvg-logo="https://assets.livednow.com/logo/NewTV-超级综艺.png" group-title="其他", NewTV 超级综艺
+http://192.168.0.1:1111/itv/ystenlive/1000000006000268002
+
+#EXTINF:-1 tvg-id="NewTV-潮妈辣婆" tvg-name="NewTV 潮妈辣婆" tvg-logo="https://assets.livednow.com/logo/NewTV-潮妈辣婆.png" group-title="其他", NewTV 潮妈辣婆
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000018
+
+#EXTINF:-1 tvg-id="NewTV-东北热剧" tvg-name="NewTV 东北热剧" tvg-logo="https://assets.livednow.com/logo/NewTV-东北热剧.png" group-title="其他", NewTV 东北热剧
+http://192.168.0.1:1111/itv/ystenlive/1000000005000266013
+
+#EXTINF:-1 tvg-id="NewTV-动作电影" tvg-name="NewTV 动作电影" tvg-logo="https://assets.livednow.com/logo/NewTV-动作电影.png" group-title="其他", NewTV 动作电影
+http://192.168.0.1:1111/itv/ystenlive/1000000004000018653
+
+#EXTINF:-1 tvg-id="NewTV-古装剧场" tvg-name="NewTV 古装剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-古装剧场.png" group-title="其他", NewTV 古装剧场
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000024
+
+#EXTINF:-1 tvg-id="NewTV-欢乐剧场" tvg-name="NewTV 欢乐剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-欢乐剧场.png" group-title="其他", NewTV 欢乐剧场
+http://192.168.0.1:1111/itv/ystenlive/1000000005000266012
+
+#EXTINF:-1 tvg-id="NewTV-家庭剧场" tvg-name="NewTV 家庭剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-家庭剧场.png" group-title="其他", NewTV 家庭剧场
+http://192.168.0.1:1111/itv/ystenlive/1000000004000008284
+
+#EXTINF:-1 tvg-id="NewTV-金牌综艺" tvg-name="NewTV 金牌综艺" tvg-logo="https://assets.livednow.com/logo/NewTV-金牌综艺.png" group-title="其他", NewTV 金牌综艺
+http://192.168.0.1:1111/itv/ystenlive/1000000004000026167
+
+#EXTINF:-1 tvg-id="NewTV-惊悚悬疑" tvg-name="NewTV 惊悚悬疑" tvg-logo="https://assets.livednow.com/logo/NewTV-惊悚悬疑.png" group-title="其他", NewTV 惊悚悬疑
+http://192.168.0.1:1111/itv/ystenlive/1000000004000024282
+
+#EXTINF:-1 tvg-id="NewTV-军旅剧场" tvg-name="NewTV 军旅剧场" tvg-logo="https://assets.livednow.com/logo/NewTV-军旅剧场.png" group-title="其他", NewTV 军旅剧场
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000014
+
+#EXTINF:-1 tvg-id="NewTV-军事评论" tvg-name="NewTV 军事评论" tvg-logo="https://assets.livednow.com/logo/NewTV-军事评论.png" group-title="其他", NewTV 军事评论
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000022
+
+#EXTINF:-1 tvg-id="NewTV-魅力潇湘" tvg-name="NewTV 魅力潇湘" tvg-logo="https://assets.livednow.com/logo/NewTV-魅力潇湘.png" group-title="其他", NewTV 魅力潇湘
+http://192.168.0.1:1111/itv/ystenlive/1000000001000006197
+
+#EXTINF:-1 tvg-id="NewTV-明星大片" tvg-name="NewTV 明星大片" tvg-logo="https://assets.livednow.com/logo/NewTV-明星大片.png" group-title="其他", NewTV 明星大片
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000016
+
+#EXTINF:-1 tvg-id="NewTV-农业致富" tvg-name="NewTV 农业致富" tvg-logo="https://assets.livednow.com/logo/NewTV-农业致富.png" group-title="其他", NewTV 农业致富
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000003
+
+#EXTINF:-1 tvg-id="NewTV-武博世界" tvg-name="NewTV 武博世界" tvg-logo="https://assets.livednow.com/logo/NewTV-武博世界.png" group-title="其他", NewTV 武博世界
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000007
+
+#EXTINF:-1 tvg-id="NewTV-炫舞未来" tvg-name="NewTV 炫舞未来" tvg-logo="https://assets.livednow.com/logo/NewTV-炫舞未来.png" group-title="其他", NewTV 炫舞未来
+http://192.168.0.1:1111/itv/ystenlive/1000000001000000515
+
+#EXTINF:-1 tvg-id="NewTV-怡伴健康" tvg-name="NewTV 怡伴健康" tvg-logo="https://assets.livednow.com/logo/NewTV-怡伴健康.png" group-title="其他", NewTV 怡伴健康
+http://192.168.0.1:1111/itv/ystenlive/1000000005000266011
+
+#EXTINF:-1 tvg-id="NewTV-中国功夫" tvg-name="NewTV 中国功夫" tvg-logo="https://assets.livednow.com/logo/NewTV-中国功夫.png" group-title="其他", NewTV 中国功夫
+http://192.168.0.1:1111/itv/hnbblive/2000000003000000009
+
+#EXTINF:-1 tvg-id="NewTV-黑莓电影" tvg-name="NewTV 黑莓电影" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓电影.png" group-title="其他", NewTV 黑莓电影
+http://192.168.0.1:1111/itv/ystenlive/1000000004000019624
+
+#EXTINF:-1 tvg-id="NewTV-黑莓动画" tvg-name="NewTV 黑莓动画" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓动画.png" group-title="其他", NewTV 黑莓动画
+http://192.168.0.1:1111/itv/ystenlive/1000000004000021734
+
+#EXTINF:-1 tvg-id="NewTV-哒啵电竞" tvg-name="NewTV 哒啵电竞" tvg-logo="https://assets.livednow.com/logo/NewTV-哒啵电竞.png" group-title="其他", NewTV 哒啵电竞
+http://192.168.0.1:1111/itv/ystenlive/1000000006000032327
+
+#EXTINF:-1 tvg-id="NewTV-哒啵赛事" tvg-name="NewTV 哒啵赛事" tvg-logo="https://assets.livednow.com/logo/NewTV-哒啵赛事.png" group-title="其他", NewTV 哒啵赛事
+http://192.168.0.1:1111/itv/ystenlive/1000000001000003775
+
+#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" group-title="其他", SiTV 动漫秀场
+http://192.168.0.1:1111/itv/bestzb/5000000011000031113
+
+#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="其他", SiTV 都市剧场
+http://192.168.0.1:1111/itv/bestzb/5000000011000031111
+
+#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="其他", SiTV 法治天地
+http://192.168.0.1:1111/itv/bestzb/9001547084732463424
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场.png" group-title="其他", SiTV 欢笑剧场
+http://192.168.0.1:1111/itv/bestzb/5000000002000009455
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="其他", SiTV 欢笑剧场-4K
+http://192.168.0.1:1111/itv/bestzb/5000000007000010001
+
+#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="其他", SiTV 金色学堂
+http://192.168.0.1:1111/itv/bestzb/5000000010000026105
+
+#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="其他", SiTV 劲爆体育
+http://192.168.0.1:1111/itv/bestzb/5000000002000029972
+
+#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="其他", SiTV 乐游
+http://192.168.0.1:1111/itv/bestzb/5000000011000031112
+
+#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="其他", SiTV 魅力足球
+http://192.168.0.1:1111/itv/bestzb/5000000011000031207
+
+#EXTINF:-1 tvg-id="SiTV-七彩戏剧" tvg-name="SiTV 七彩戏剧" tvg-logo="https://assets.livednow.com/logo/SiTV-七彩戏剧.png" group-title="其他", SiTV 七彩戏剧
+http://192.168.0.1:1111/itv/bestzb/5000000011000031116
+
+#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="其他", SiTV 生活时尚
+http://192.168.0.1:1111/itv/bestzb/5000000002000019634
+
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="其他", SiTV 游戏风云
+http://192.168.0.1:1111/itv/bestzb/5000000011000031114
+
+#EXTINF:-1 tvg-id="iHOT-爱电竞" tvg-name="iHOT 爱电竞" tvg-logo="https://assets.livednow.com/logo/iHOT-爱电竞.png" group-title="其他", iHOT 爱电竞
+http://192.168.0.1:1111/itv/wasusyt/6000000006000230630
+
+#EXTINF:-1 tvg-id="iHOT-爱谍战" tvg-name="iHOT 爱谍战" tvg-logo="https://assets.livednow.com/logo/iHOT-爱谍战.png" group-title="其他", iHOT 爱谍战
+http://192.168.0.1:1111/itv/wasusyt/6000000006000070630
+
+#EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="iHOT 爱动漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱动漫.png" group-title="其他", iHOT 爱动漫
+http://192.168.0.1:1111/itv/wasusyt/6000000006000280630
+
+#EXTINF:-1 tvg-id="iHOT-爱都市" tvg-name="iHOT 爱都市" tvg-logo="https://assets.livednow.com/logo/iHOT-爱都市.png" group-title="其他", iHOT 爱都市
+http://192.168.0.1:1111/itv/wasusyt/6000000006000080630
+
+#EXTINF:-1 tvg-id="iHOT-爱怀旧" tvg-name="iHOT 爱怀旧" tvg-logo="https://assets.livednow.com/logo/iHOT-爱怀旧.png" group-title="其他", iHOT 爱怀旧
+http://192.168.0.1:1111/itv/wasusyt/6000000006000260630
+
+#EXTINF:-1 tvg-id="iHOT-爱经典" tvg-name="iHOT 爱经典" tvg-logo="https://assets.livednow.com/logo/iHOT-爱经典.png" group-title="其他", iHOT 爱经典
+http://192.168.0.1:1111/itv/wasusyt/6000000006000060630
+
+#EXTINF:-1 tvg-id="iHOT-爱科幻" tvg-name="iHOT 爱科幻" tvg-logo="https://assets.livednow.com/logo/iHOT-爱科幻.png" group-title="其他", iHOT 爱科幻
+http://192.168.0.1:1111/itv/wasusyt/6000000006000020630
+
+#EXTINF:-1 tvg-id="iHOT-爱科学" tvg-name="iHOT 爱科学" tvg-logo="https://assets.livednow.com/logo/iHOT-爱科学.png" group-title="其他", iHOT 爱科学
+http://192.168.0.1:1111/itv/wasusyt/6000000006000160630
+
+#EXTINF:-1 tvg-id="iHOT-爱浪漫" tvg-name="iHOT 爱浪漫" tvg-logo="https://assets.livednow.com/logo/iHOT-爱浪漫.png" group-title="其他", iHOT 爱浪漫
+http://192.168.0.1:1111/itv/wasusyt/6000000006000040630
+
+#EXTINF:-1 tvg-id="iHOT-爱历史" tvg-name="iHOT 爱历史" tvg-logo="https://assets.livednow.com/logo/iHOT-爱历史.png" group-title="其他", iHOT 爱历史
+http://192.168.0.1:1111/itv/wasusyt/6000000006000150630
+
+#EXTINF:-1 tvg-id="iHOT-爱旅行" tvg-name="iHOT 爱旅行" tvg-logo="https://assets.livednow.com/logo/iHOT-爱旅行.png" group-title="其他", iHOT 爱旅行
+http://192.168.0.1:1111/itv/wasusyt/6000000006000250630
+
+#EXTINF:-1 tvg-id="iHOT-爱奇谈" tvg-name="iHOT 爱奇谈" tvg-logo="https://assets.livednow.com/logo/iHOT-爱奇谈.png" group-title="其他", iHOT 爱奇谈
+http://192.168.0.1:1111/itv/wasusyt/6000000006000270630
+
+#EXTINF:-1 tvg-id="iHOT-爱青春" tvg-name="iHOT 爱青春" tvg-logo="https://assets.livednow.com/logo/iHOT-爱青春.png" group-title="其他", iHOT 爱青春
+http://192.168.0.1:1111/itv/wasusyt/6000000006000100630
+
+#EXTINF:-1 tvg-id="iHOT-爱赛车" tvg-name="iHOT 爱赛车" tvg-logo="https://assets.livednow.com/logo/iHOT-爱赛车.png" group-title="其他", iHOT 爱赛车
+http://192.168.0.1:1111/itv/wasusyt/6000000006000240630
+
+#EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="iHOT 爱体育" tvg-logo="https://assets.livednow.com/logo/iHOT-爱体育.png" group-title="其他", iHOT 爱体育
+http://192.168.0.1:1111/itv/wasusyt/6000000006000290630
+
+#EXTINF:-1 tvg-id="iHOT-爱玩具" tvg-name="iHOT 爱玩具" tvg-logo="https://assets.livednow.com/logo/iHOT-爱玩具.png" group-title="其他", iHOT 爱玩具
+http://192.168.0.1:1111/itv/wasusyt/6000000006000220630
+
+#EXTINF:-1 tvg-id="iHOT-爱喜剧" tvg-name="iHOT 爱喜剧" tvg-logo="https://assets.livednow.com/logo/iHOT-爱喜剧.png" group-title="其他", iHOT 爱喜剧
+http://192.168.0.1:1111/itv/wasusyt/6000000006000010630
+
+#EXTINF:-1 tvg-id="iHOT-爱悬疑" tvg-name="iHOT 爱悬疑" tvg-logo="https://assets.livednow.com/logo/iHOT-爱悬疑.png" group-title="其他", iHOT 爱悬疑
+http://192.168.0.1:1111/itv/wasusyt/6000000006000050630
+
+#EXTINF:-1 tvg-id="iHOT-爱幼教" tvg-name="iHOT 爱幼教" tvg-logo="https://assets.livednow.com/logo/iHOT-爱幼教.png" group-title="其他", iHOT 爱幼教
+http://192.168.0.1:1111/itv/wasusyt/6000000006000180630
+
+#EXTINF:-1 tvg-id="iHOT-爱院线" tvg-name="iHOT 爱院线" tvg-logo="https://assets.livednow.com/logo/iHOT-爱院线.png" group-title="其他", iHOT 爱院线
+http://192.168.0.1:1111/itv/wasusyt/6000000006000030630
+
+#EXTINF:-1 tvg-id="全民热练" tvg-name="全民热练" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 全民热练
+http://192.168.0.1:1111/tptv/HD-8000k-1080P-quanminrl?type=proxy
+
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/黑莓电影.png" group-title="其他", 黑莓电影
+http://192.168.0.1:1111/tptv/HD-8000k-1080P-Supermovie?type=proxy
+
+#EXTINF:-1 tvg-id="NewTV-炫舞未来" tvg-name="NewTV 炫舞未来" tvg-logo="https://assets.livednow.com/logo/NewTV-炫舞未来.png" group-title="其他", NewTV 炫舞未来
+http://192.168.0.1:1111/tptv/HD-4000k-1080P-xwwl?type=proxy
+
+#EXTINF:-1 tvg-id="猎冰" tvg-name="猎冰" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 猎冰
+http://192.168.0.1:1111/tptv/cos-liebing?type=proxy
+
+#EXTINF:-1 tvg-id="漫长的季节" tvg-name="漫长的季节" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 漫长的季节
+http://192.168.0.1:1111/tptv/manchangdjj?type=proxy
+
+#EXTINF:-1 tvg-id="梦中的那片海" tvg-name="梦中的那片海" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 梦中的那片海
+http://192.168.0.1:1111/tptv/mengzhongdnph?type=proxy
+
+#EXTINF:-1 tvg-id="永安梦" tvg-name="永安梦" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 永安梦
+http://192.168.0.1:1111/tptv/cos-yonganmeng?type=proxy
+
+#EXTINF:-1 tvg-id="繁花" tvg-name="繁花" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 繁花
+http://192.168.0.1:1111/tptv/fanhua?type=proxy
+
+#EXTINF:-1 tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 庆余年
+http://192.168.0.1:1111/tptv/zhifouzf?type=proxy
+
+#EXTINF:-1 tvg-id="百姓生活" tvg-name="百姓生活" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 百姓生活
+http://192.168.0.1:1111/tptv/baixingsh?type=proxy
+
+#EXTINF:-1 tvg-id="黑土无言" tvg-name="黑土无言" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 黑土无言
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-htwy?type=proxy
+
+#EXTINF:-1 tvg-id="问心" tvg-name="问心" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 问心
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-wenxin?type=proxy
+
+#EXTINF:-1 tvg-id="父辈的荣耀" tvg-name="父辈的荣耀" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 父辈的荣耀
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-fbdry?type=proxy
+
+#EXTINF:-1 tvg-id="繁城之下" tvg-name="繁城之下" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 繁城之下
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-fczx?type=proxy
+
+#EXTINF:-1 tvg-id="小日子" tvg-name="小日子" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 小日子
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-xiaorizi?type=proxy
+
+#EXTINF:-1 tvg-id="谢谢你温暖我" tvg-name="谢谢你温暖我" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 谢谢你温暖我
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-xxnwnw?type=proxy
+
+#EXTINF:-1 tvg-id="当你沉睡时" tvg-name="当你沉睡时" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 当你沉睡时
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-dncss?type=proxy
+
+#EXTINF:-1 tvg-id="梨园经典荟萃" tvg-name="梨园经典荟萃" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 梨园经典荟萃
+http://192.168.0.1:1111/tptv/COSHD-4000k-1080P-lyjdhc?type=proxy
+
+#EXTINF:-1 tvg-id="影视剧场" tvg-name="影视剧场" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 影视剧场
+http://192.168.0.1:1111/tptv/GITV-JS-1?type=proxy
+
+#EXTINF:-1 tvg-id="第一院线" tvg-name="第一院线" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 第一院线
+http://192.168.0.1:1111/tptv/GITV-JS-2?type=proxy
+
+#EXTINF:-1 tvg-id="居家健身" tvg-name="居家健身" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 居家健身
+http://192.168.0.1:1111/tptv/GITV-JS-4?type=proxy
+
+#EXTINF:-1 tvg-id="GITV-电视剧" tvg-name="电视剧" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 电视剧
+http://192.168.0.1:1111/tptv/GITV-JS-6?type=proxy
+
+#EXTINF:-1 tvg-id="二更视频" tvg-name="二更视频" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 二更视频
+http://192.168.0.1:1111/tptv/GITV-JS-7?type=proxy
+
+#EXTINF:-1 tvg-id="德凯奥特曼" tvg-name="德凯奥特曼" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 德凯奥特曼
+http://192.168.0.1:1111/tptv/GITV-JS-9?type=proxy
+
+#EXTINF:-1 tvg-id="熊出没" tvg-name="熊出没" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 熊出没
+http://192.168.0.1:1111/tptv/GITV-JS-10?type=proxy
+
+#EXTINF:-1 tvg-id="超级飞侠" tvg-name="超级飞侠" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 超级飞侠
+http://192.168.0.1:1111/tptv/GITV-JS-11?type=proxy
+
+#EXTINF:-1 tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 小猪佩奇
+http://192.168.0.1:1111/tptv/GITV-JS-12?type=proxy
+
+#EXTINF:-1 tvg-id="汪汪队立大功" tvg-name="汪汪队立大功" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 汪汪队立大功
+http://192.168.0.1:1111/tptv/GITV-JS-13?type=proxy
+
+#EXTINF:-1 tvg-id="高分电影" tvg-name="高分电影" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 高分电影
+http://192.168.0.1:1111/tptv/GITV-JS-14?type=proxy
+
+#EXTINF:-1 tvg-id="乡村爱情" tvg-name="乡村爱情" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 乡村爱情
+http://192.168.0.1:1111/tptv/GITV-JS-15?type=proxy
+
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 热门综艺
+http://192.168.0.1:1111/tptv/GITV-JS-16?type=proxy
+
+#EXTINF:-1 tvg-id="美食美味" tvg-name="美食美味" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 美食美味
+http://192.168.0.1:1111/tptv/GITV-JS-17?type=proxy
+
+#EXTINF:-1 tvg-id="自然风景" tvg-name="自然风景" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 自然风景
+http://192.168.0.1:1111/tptv/GITV-JS-18?type=proxy
+
+#EXTINF:-1 tvg-id="动物世界" tvg-name="动物世界" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 动物世界
+http://192.168.0.1:1111/tptv/GITV-JS-19?type=proxy
+
+#EXTINF:-1 tvg-id="书籍解读" tvg-name="书籍解读" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 书籍解读
+http://192.168.0.1:1111/tptv/GITV-JS-20?type=proxy
+
+#EXTINF:-1 tvg-id="亲子玩具" tvg-name="亲子玩具" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 亲子玩具
+http://192.168.0.1:1111/tptv/GITV-JS-21?type=proxy
+
+#EXTINF:-1 tvg-id="广场舞" tvg-name="广场舞" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 广场舞
+http://192.168.0.1:1111/tptv/GITV-JS-22?type=proxy
+
+#EXTINF:-1 tvg-id="戏曲音乐" tvg-name="戏曲音乐" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 戏曲音乐
+http://192.168.0.1:1111/tptv/GITV-JS-23?type=proxy
+
+#EXTINF:-1 tvg-id="相声联欢" tvg-name="相声联欢" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 相声联欢
+http://192.168.0.1:1111/tptv/GITV-JS-24?type=proxy
+
+#EXTINF:-1 tvg-id="动漫星空" tvg-name="动漫星空" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 动漫星空
+http://192.168.0.1:1111/tptv/GITV-JS-25?type=proxy
+
+#EXTINF:-1 tvg-id="楚乔传" tvg-name="楚乔传" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 楚乔传
+http://192.168.0.1:1111/tptv/GITV-JS-26?type=proxy
+
+#EXTINF:-1 tvg-id="完美的她" tvg-name="完美的她" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 完美的她
+http://192.168.0.1:1111/tptv/GITV-JS-27?type=proxy
+
+#EXTINF:-1 tvg-id="哈尔滨一九四四" tvg-name="哈尔滨一九四四" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 哈尔滨一九四四
+http://192.168.0.1:1111/tptv/GITV-JS-28?type=proxy
+
+#EXTINF:-1 tvg-id="军事之旅" tvg-name="军事之旅" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 军事之旅
+http://192.168.0.1:1111/tptv/GITV-JS-29?type=proxy
+
+#EXTINF:-1 tvg-id="科幻世界" tvg-name="科幻世界" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 科幻世界
+http://192.168.0.1:1111/tptv/GITV-JS-30?type=proxy
+
+#EXTINF:-1 tvg-id="儿童天地" tvg-name="儿童天地" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 儿童天地
+http://192.168.0.1:1111/tptv/GITV-JS-31?type=proxy
+
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 纪录片
+http://192.168.0.1:1111/tptv/GITV-JS-32?type=proxy
+
+#EXTINF:-1 tvg-id="音乐心情" tvg-name="音乐心情" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 音乐心情
+http://192.168.0.1:1111/tptv/GITV-JS-33?type=proxy
+
+#EXTINF:-1 tvg-id="掼蛋频道" tvg-name="掼蛋频道" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 掼蛋频道
+http://192.168.0.1:1111/tptv/GITV-JS-34?type=proxy
+
+#EXTINF:-1 tvg-id="体坛同期声" tvg-name="体坛同期声" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 体坛同期声
+http://192.168.0.1:1111/tptv/GITV-JS-35?type=proxy
+
+#EXTINF:-1 tvg-id="臻享推荐" tvg-name="臻享推荐" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 臻享推荐
+http://192.168.0.1:1111/tptv/GITV-JS-36?type=proxy
+
+#EXTINF:-1 tvg-id="怀旧MTV" tvg-name="怀旧MTV" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 怀旧MTV
+http://192.168.0.1:1111/tptv/GITV-JS-37?type=proxy
+
+#EXTINF:-1 tvg-id="南来北往" tvg-name="南来北往" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 南来北往
+http://192.168.0.1:1111/tptv/GITV-JS-39?type=proxy
+
+#EXTINF:-1 tvg-id="狗剩快跑" tvg-name="狗剩快跑" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 狗剩快跑
+http://192.168.0.1:1111/tptv/GITV-JS-40?type=proxy
+
+#EXTINF:-1 tvg-id="狂飙" tvg-name="狂飙" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 狂飙
+http://192.168.0.1:1111/tptv/GITV-JS-41?type=proxy
+
+#EXTINF:-1 tvg-id="人世间" tvg-name="人世间" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 人世间
+http://192.168.0.1:1111/tptv/GITV-JS-42?type=proxy
+
+#EXTINF:-1 tvg-id="大江大河" tvg-name="大江大河" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 大江大河
+http://192.168.0.1:1111/tptv/GITV-JS-43?type=proxy
+
+#EXTINF:-1 tvg-id="山海情" tvg-name="山海情" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 山海情
+http://192.168.0.1:1111/tptv/GITV-JS-44?type=proxy
+
+#EXTINF:-1 tvg-id="冰雪竞技场" tvg-name="冰雪竞技场" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 冰雪竞技场
+http://192.168.0.1:1111/tptv/GITV-JS-45?type=proxy
+
+#EXTINF:-1 tvg-id="邪恶与疯狂" tvg-name="邪恶与疯狂" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 邪恶与疯狂
+http://192.168.0.1:1111/tptv/GITV-JS-46?type=proxy
+
+#EXTINF:-1 tvg-id="来自星星的你" tvg-name="来自星星的你" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 来自星星的你
+http://192.168.0.1:1111/tptv/GITV-JS-47?type=proxy
+
+#EXTINF:-1 tvg-id="哦我的鬼神大人" tvg-name="哦我的鬼神大人" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 哦我的鬼神大人
+http://192.168.0.1:1111/tptv/GITV-JS-48?type=proxy
+
+#EXTINF:-1 tvg-id="太阳的后裔" tvg-name="太阳的后裔" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 太阳的后裔
+http://192.168.0.1:1111/tptv/GITV-JS-49?type=proxy
+
+#EXTINF:-1 tvg-id="请回答1988" tvg-name="请回答1988" tvg-logo="https://assets.livednow.com/logo/GITV.png" group-title="其他", 请回答1988
+http://192.168.0.1:1111/tptv/GITV-JS-50?type=proxy
