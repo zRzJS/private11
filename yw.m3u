@@ -70,6 +70,9 @@ http://192.168.0.1:1111/itv/ystenlive/1000000006000233002
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 4K
 http://192.168.0.1:1111/itv/bestzb/5000000008000023254
 
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 4K HDR
+https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/127146888?profile=pass
+
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265015
 
