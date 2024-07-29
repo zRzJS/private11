@@ -178,17 +178,17 @@ http://192.168.0.1:1112/ysptp/cctv4k.m3u8
 http://192.168.0.1:1112/ysptp/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="CCTV8k" tvg-name="CCTV 8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视超清",CCTV 8k HDR 120M
 http://192.168.0.1:1112/ysptp/cctv8k_120m.m3u8
-#EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png" group-title="央视超清",CGTN NAR
+#EXTINF:-1,tvg-id="CGTN-阿拉伯语" tvg-name="CGTN-阿拉伯语" tvg-logo="https://assets.livednow.com/logo/CGTN-阿拉伯语.png" group-title="央视超清",CGTN 阿拉伯语
 http://192.168.0.1:1112/ysptp/cgtnar.m3u8
-#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png" group-title="央视超清",CGTN DOC
+#EXTINF:-1,tvg-id="CGTN-纪录" tvg-name="CGTN-纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="央视超清",CGTN 纪录
 http://192.168.0.1:1112/ysptp/cgtndoc.m3u8
 #EXTINF:-1,tvg-id="CGTNEY" tvg-name="CGTNEY" tvg-logo="https://epg.v1.mk/logo/CGTNEY.png" group-title="央视超清",CGTN EN
 http://192.168.0.1:1112/ysptp/cgtnen.m3u8
-#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://epg.v1.mk/logo/cgtnfrench.png" group-title="央视超清",CGTN FR
+#EXTINF:-1,tvg-id="CGTN-法语" tvg-name="CGTN-法语" tvg-logo="https://assets.livednow.com/logo/CGTN-法语.png" group-title="央视超清",CGTN 法语
 http://192.168.0.1:1112/ysptp/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视超清",CGTN RU
+#EXTINF:-1,tvg-id="CGTN-俄语" tvg-name="CGTN-俄语" tvg-logo="https://assets.livednow.com/logo/CGTN-俄语.png" group-title="央视超清",CGTN-俄语
 http://192.168.0.1:1112/ysptp/cgtnru.m3u8
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视超清",CGTN SP
+#EXTINF:-1,tvg-id="CGTN-西班牙语" tvg-name="CGTN-西班牙语" tvg-logo="https://assets.livednow.com/logo/CGTN-西班牙语.png" group-title="央视超清",CGTN 西班牙语
 http://192.168.0.1:1112/ysptp/cgtnsp.m3u8
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视", 安徽卫视
