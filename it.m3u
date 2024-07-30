@@ -15,7 +15,7 @@ http://192.168.0.1:1111/itv/ystenlive/1000000005000265004
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265005
 
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5PLUS" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265016
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视", CCTV 6
