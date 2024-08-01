@@ -1,342 +1,342 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://assets.livednow.com/logo/A&E.png" group-title="TheTV", A&E
-http://192.168.0.1:1111/thetv/ae
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://assets.livednow.com/logo/AE.png" group-title="综合", A&E
+https://pixman.zrzrzzz.sbs/thetv/ae
 
-#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="TheTV", ACC Network
-http://192.168.0.1:1111/thetv/acc-network
+#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="综合", ACC Network
+https://pixman.zrzrzzz.sbs/thetv/acc-network
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://assets.livednow.com/logo/AMC.png" group-title="TheTV", AMC
-http://192.168.0.1:1111/thetv/amc
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://assets.livednow.com/logo/AMC.png" group-title="综合", AMC
+https://pixman.zrzrzzz.sbs/thetv/amc
 
-#EXTINF:-1 tvg-id="American-Heroes-Channel" tvg-name="American Heroes Channel" tvg-logo="https://assets.livednow.com/logo/American-Heroes-Channel.png" group-title="TheTV", American Heroes Channel
-http://192.168.0.1:1111/thetv/american-heroes-channel
+#EXTINF:-1 tvg-id="American-Heroes-Channel" tvg-name="American Heroes Channel" tvg-logo="https://assets.livednow.com/logo/American-Heroes-Channel.png" group-title="综合", American Heroes Channel
+https://pixman.zrzrzzz.sbs/thetv/american-heroes-channel
 
-#EXTINF:-1 tvg-id="Animal-Planet" tvg-name="Animal Planet" tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png" group-title="TheTV", Animal Planet
-http://192.168.0.1:1111/thetv/animal-planet
+#EXTINF:-1 tvg-id="Animal-Planet" tvg-name="Animal Planet" tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png" group-title="综合", Animal Planet
+https://pixman.zrzrzzz.sbs/thetv/animal-planet
 
-#EXTINF:-1 tvg-id="BBC-America" tvg-name="BBC America" tvg-logo="https://assets.livednow.com/logo/BBC-America.png" group-title="TheTV", BBC America
-http://192.168.0.1:1111/thetv/bbc-america
+#EXTINF:-1 tvg-id="BBC-America" tvg-name="BBC America" tvg-logo="https://assets.livednow.com/logo/BBC-America.png" group-title="综合", BBC America
+https://pixman.zrzrzzz.sbs/thetv/bbc-america
 
-#EXTINF:-1 tvg-id="BBC-World-News-HD" tvg-name="BBC World News HD" tvg-logo="https://assets.livednow.com/logo/BBC-World-News-HD.png" group-title="TheTV", BBC World News HD
-http://192.168.0.1:1111/thetv/bbc-world-news-hd
+#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-World-News.png" group-title="综合", BBC World News
+https://pixman.zrzrzzz.sbs/thetv/bbc-world-news-hd
 
-#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://assets.livednow.com/logo/BET.png" group-title="TheTV", BET
-http://192.168.0.1:1111/thetv/bet
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://assets.livednow.com/logo/BET.png" group-title="综合", BET
+https://pixman.zrzrzzz.sbs/thetv/bet
 
-#EXTINF:-1 tvg-id="BET-Her" tvg-name="BET Her" tvg-logo="https://assets.livednow.com/logo/BET-Her.png" group-title="TheTV", BET Her
-http://192.168.0.1:1111/thetv/bet-her
+#EXTINF:-1 tvg-id="BET-Her" tvg-name="BET Her" tvg-logo="https://assets.livednow.com/logo/BET-Her.png" group-title="综合", BET Her
+https://pixman.zrzrzzz.sbs/thetv/bet-her
 
-#EXTINF:-1 tvg-id="Bloomberg-TV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/Bloomberg-TV.png" group-title="TheTV", Bloomberg TV
-http://192.168.0.1:1111/thetv/bloomberg-tv
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="综合", Bloomberg TV
+https://pixman.zrzrzzz.sbs/thetv/bloomberg-tv
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://assets.livednow.com/logo/Boomerang.png" group-title="TheTV", Boomerang
-http://192.168.0.1:1111/thetv/boomerang
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://assets.livednow.com/logo/Boomerang.png" group-title="综合", Boomerang
+https://pixman.zrzrzzz.sbs/thetv/boomerang
 
-#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://assets.livednow.com/logo/Bravo.png" group-title="TheTV", Bravo
-http://192.168.0.1:1111/thetv/bravo
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://assets.livednow.com/logo/Bravo.png" group-title="综合", Bravo
+https://pixman.zrzrzzz.sbs/thetv/bravo
 
-#EXTINF:-1 tvg-id="Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/Cartoon-Network.png" group-title="TheTV", Cartoon Network
-http://192.168.0.1:1111/thetv/cartoon-network
+#EXTINF:-1 tvg-id="Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/Cartoon-Network.png" group-title="综合", Cartoon Network
+https://pixman.zrzrzzz.sbs/thetv/cartoon-network
 
-#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="TheTV", CBS Sports Network
-http://192.168.0.1:1111/thetv/cbs-sports-network
+#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="综合", CBS Sports Network
+https://pixman.zrzrzzz.sbs/thetv/cbs-sports-network
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://assets.livednow.com/logo/Cinemax.png" group-title="TheTV", Cinemax
-http://192.168.0.1:1111/thetv/cinemax
+#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="综合", Cinemax
+https://pixman.zrzrzzz.sbs/thetv/cinemax
 
-#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-logo="https://assets.livednow.com/logo/CMT.png" group-title="TheTV", CMT
-http://192.168.0.1:1111/thetv/cmt
+#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-logo="https://assets.livednow.com/logo/CMT.png" group-title="综合", CMT
+https://pixman.zrzrzzz.sbs/thetv/cmt
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="TheTV", CNBC
-http://192.168.0.1:1111/thetv/cnbc
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="综合", CNBC
+https://pixman.zrzrzzz.sbs/thetv/cnbc
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="TheTV", CNN
-http://192.168.0.1:1111/thetv/cnn
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="综合", CNN
+https://pixman.zrzrzzz.sbs/thetv/cnn
 
-#EXTINF:-1 tvg-id="Comedy-Central" tvg-name="Comedy Central" tvg-logo="https://assets.livednow.com/logo/Comedy-Central.png" group-title="TheTV", Comedy Central
-http://192.168.0.1:1111/thetv/comedy-central
+#EXTINF:-1 tvg-id="Comedy-Central" tvg-name="Comedy Central" tvg-logo="https://assets.livednow.com/logo/Comedy-Central.png" group-title="综合", Comedy Central
+https://pixman.zrzrzzz.sbs/thetv/comedy-central
 
-#EXTINF:-1 tvg-id="Cooking-Channel" tvg-name="Cooking Channel" tvg-logo="https://assets.livednow.com/logo/Cooking-Channel.png" group-title="TheTV", Cooking Channel
-http://192.168.0.1:1111/thetv/cooking-channel
+#EXTINF:-1 tvg-id="Cooking-Channel" tvg-name="Cooking Channel" tvg-logo="https://assets.livednow.com/logo/Cooking-Channel.png" group-title="综合", Cooking Channel
+https://pixman.zrzrzzz.sbs/thetv/cooking-channel
 
-#EXTINF:-1 tvg-id="Crime-&-Investigation-HD" tvg-name="Crime & Investigation HD" tvg-logo="https://assets.livednow.com/logo/Crime-&-Investigation-HD.png" group-title="TheTV", Crime & Investigation HD
-http://192.168.0.1:1111/thetv/crime-investigation-hd
+#EXTINF:-1 tvg-id="Crime-And-Investigation" tvg-name="Crime & Investigation" tvg-logo="https://assets.livednow.com/logo/Crime-And-Investigation.png" group-title="综合", Crime & Investigation
+https://pixman.zrzrzzz.sbs/thetv/crime-investigation-hd
 
-#EXTINF:-1 tvg-id="CSPAN" tvg-name="CSPAN" tvg-logo="https://assets.livednow.com/logo/CSPAN.png" group-title="TheTV", CSPAN
-http://192.168.0.1:1111/thetv/cspan
+#EXTINF:-1 tvg-id="CSPAN" tvg-name="CSPAN" tvg-logo="https://assets.livednow.com/logo/CSPAN.png" group-title="综合", CSPAN
+https://pixman.zrzrzzz.sbs/thetv/cspan
 
-#EXTINF:-1 tvg-id="CSPAN-2" tvg-name="CSPAN 2" tvg-logo="https://assets.livednow.com/logo/CSPAN-2.png" group-title="TheTV", CSPAN 2
-http://192.168.0.1:1111/thetv/cspan-2
+#EXTINF:-1 tvg-id="CSPAN-2" tvg-name="CSPAN 2" tvg-logo="https://assets.livednow.com/logo/CSPAN-2.png" group-title="综合", CSPAN 2
+https://pixman.zrzrzzz.sbs/thetv/cspan-2
 
-#EXTINF:-1 tvg-id="Destination-America" tvg-name="Destination America" tvg-logo="https://assets.livednow.com/logo/Destination-America.png" group-title="TheTV", Destination America
-http://192.168.0.1:1111/thetv/destination-america
+#EXTINF:-1 tvg-id="Destination-America" tvg-name="Destination America" tvg-logo="https://assets.livednow.com/logo/Destination-America.png" group-title="综合", Destination America
+https://pixman.zrzrzzz.sbs/thetv/destination-america
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery.png" group-title="TheTV", Discovery
-http://192.168.0.1:1111/thetv/discovery
+#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="综合", Discovery
+https://pixman.zrzrzzz.sbs/thetv/discovery
 
-#EXTINF:-1 tvg-id="Discovery-Family-Channel" tvg-name="Discovery Family Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Family-Channel.png" group-title="TheTV", Discovery Family Channel
-http://192.168.0.1:1111/thetv/discovery-family-channel
+#EXTINF:-1 tvg-id="Discovery-Family-Channel" tvg-name="Discovery Family Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Family-Channel.png" group-title="综合", Discovery Family Channel
+https://pixman.zrzrzzz.sbs/thetv/discovery-family-channel
 
-#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="TheTV", Discovery Life
-http://192.168.0.1:1111/thetv/discovery-life
+#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="综合", Discovery Life
+https://pixman.zrzrzzz.sbs/thetv/discovery-life
 
-#EXTINF:-1 tvg-id="Disney-Channel-(East)" tvg-name="Disney Channel (East)" tvg-logo="https://assets.livednow.com/logo/Disney-Channel-(East).png" group-title="TheTV", Disney Channel (East)
-http://192.168.0.1:1111/thetv/disney-channel-east
+#EXTINF:-1 tvg-id="Disney-Channel" tvg-name="Disney Channel (East)" tvg-logo="https://assets.livednow.com/logo/Disney-Channel.png" group-title="综合", Disney Channel (East)
+https://pixman.zrzrzzz.sbs/thetv/disney-channel-east
 
-#EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://assets.livednow.com/logo/Disney-Junior.png" group-title="TheTV", Disney Junior
-http://192.168.0.1:1111/thetv/disney-junior
+#EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://assets.livednow.com/logo/Disney-Junior.png" group-title="综合", Disney Junior
+https://pixman.zrzrzzz.sbs/thetv/disney-junior
 
-#EXTINF:-1 tvg-id="Disney-XD" tvg-name="Disney XD" tvg-logo="https://assets.livednow.com/logo/Disney-XD.png" group-title="TheTV", Disney XD
-http://192.168.0.1:1111/thetv/disney-xd
+#EXTINF:-1 tvg-id="Disney-XD" tvg-name="Disney XD" tvg-logo="https://assets.livednow.com/logo/Disney-XD.png" group-title="综合", Disney XD
+https://pixman.zrzrzzz.sbs/thetv/disney-xd
 
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://assets.livednow.com/logo/E!.png" group-title="TheTV", E!
-http://192.168.0.1:1111/thetv/e
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://assets.livednow.com/logo/E.png" group-title="综合", E!
+https://pixman.zrzrzzz.sbs/thetv/e
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="TheTV", ESPN
-http://192.168.0.1:1111/thetv/espn
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="综合", ESPN
+https://pixman.zrzrzzz.sbs/thetv/espn
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://assets.livednow.com/logo/ESPN2.png" group-title="TheTV", ESPN2
-http://192.168.0.1:1111/thetv/espn2
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="综合", ESPN2
+https://pixman.zrzrzzz.sbs/thetv/espn2
 
-#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews" tvg-logo="https://assets.livednow.com/logo/ESPNews.png" group-title="TheTV", ESPNews
-http://192.168.0.1:1111/thetv/espnews
+#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPNews" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="综合", ESPNews
+https://pixman.zrzrzzz.sbs/thetv/espnews
 
-#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-logo="https://assets.livednow.com/logo/ESPNU.png" group-title="TheTV", ESPNU
-http://192.168.0.1:1111/thetv/espnu
+#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPNU" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="综合", ESPNU
+https://pixman.zrzrzzz.sbs/thetv/espnu
 
-#EXTINF:-1 tvg-id="Food-Network" tvg-name="Food Network" tvg-logo="https://assets.livednow.com/logo/Food-Network.png" group-title="TheTV", Food Network
-http://192.168.0.1:1111/thetv/food-network
+#EXTINF:-1 tvg-id="Food-Network" tvg-name="Food Network" tvg-logo="https://assets.livednow.com/logo/Food-Network.png" group-title="综合", Food Network
+https://pixman.zrzrzzz.sbs/thetv/food-network
 
-#EXTINF:-1 tvg-id="Fox-Business-Network" tvg-name="Fox Business Network" tvg-logo="https://assets.livednow.com/logo/Fox-Business-Network.png" group-title="TheTV", Fox Business Network
-http://192.168.0.1:1111/thetv/fox-business-network
+#EXTINF:-1 tvg-id="Fox-Business-Network" tvg-name="Fox Business Network" tvg-logo="https://assets.livednow.com/logo/Fox-Business-Network.png" group-title="综合", Fox Business Network
+https://pixman.zrzrzzz.sbs/thetv/fox-business-network
 
-#EXTINF:-1 tvg-id="FOX-News-Channel" tvg-name="FOX News Channel" tvg-logo="https://assets.livednow.com/logo/FOX-News-Channel.png" group-title="TheTV", FOX News Channel
-http://192.168.0.1:1111/thetv/fox-news-channel
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="Fox News Channel" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="综合", Fox News Channel
+https://pixman.zrzrzzz.sbs/thetv/fox-news-channel
 
-#EXTINF:-1 tvg-id="FOX-Sports-1" tvg-name="FOX Sports 1" tvg-logo="https://assets.livednow.com/logo/FOX-Sports-1.png" group-title="TheTV", FOX Sports 1
-http://192.168.0.1:1111/thetv/fox-sports-1
+#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="综合", Fox Sports 1
+https://pixman.zrzrzzz.sbs/thetv/fox-sports-1
 
-#EXTINF:-1 tvg-id="FOX-Sports-2" tvg-name="FOX Sports 2" tvg-logo="https://assets.livednow.com/logo/FOX-Sports-2.png" group-title="TheTV", FOX Sports 2
-http://192.168.0.1:1111/thetv/fox-sports-2
+#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="综合", Fox Sports 2
+https://pixman.zrzrzzz.sbs/thetv/fox-sports-2
 
-#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://assets.livednow.com/logo/Freeform.png" group-title="TheTV", Freeform
-http://192.168.0.1:1111/thetv/freeform
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://assets.livednow.com/logo/Freeform.png" group-title="综合", Freeform
+https://pixman.zrzrzzz.sbs/thetv/freeform
 
-#EXTINF:-1 tvg-id="Fuse-HD" tvg-name="Fuse HD" tvg-logo="https://assets.livednow.com/logo/Fuse-HD.png" group-title="TheTV", Fuse HD
-http://192.168.0.1:1111/thetv/fuse-hd
+#EXTINF:-1 tvg-id="Fuse-HD" tvg-name="Fuse HD" tvg-logo="https://assets.livednow.com/logo/Fuse-HD.png" group-title="综合", Fuse HD
+https://pixman.zrzrzzz.sbs/thetv/fuse-hd
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets.livednow.com/logo/FX.png" group-title="TheTV", FX
-http://192.168.0.1:1111/thetv/fx
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets.livednow.com/logo/FX.png" group-title="综合", FX
+https://pixman.zrzrzzz.sbs/thetv/fx
 
-#EXTINF:-1 tvg-id="FX-Movie" tvg-name="FX Movie" tvg-logo="https://assets.livednow.com/logo/FX-Movie.png" group-title="TheTV", FX Movie
-http://192.168.0.1:1111/thetv/fx-movie
+#EXTINF:-1 tvg-id="FX-Movie" tvg-name="FX Movie" tvg-logo="https://assets.livednow.com/logo/FX-Movie.png" group-title="综合", FX Movie
+https://pixman.zrzrzzz.sbs/thetv/fx-movie
 
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://assets.livednow.com/logo/FXX.png" group-title="TheTV", FXX
-http://192.168.0.1:1111/thetv/fxx
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://assets.livednow.com/logo/FXX.png" group-title="综合", FXX
+https://pixman.zrzrzzz.sbs/thetv/fxx
 
-#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://assets.livednow.com/logo/FYI.png" group-title="TheTV", FYI
-http://192.168.0.1:1111/thetv/fyi
+#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://assets.livednow.com/logo/FYI.png" group-title="综合", FYI
+https://pixman.zrzrzzz.sbs/thetv/fyi
 
-#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="TheTV", Golf Channel
-http://192.168.0.1:1111/thetv/golf-channel
+#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="综合", Golf Channel
+https://pixman.zrzrzzz.sbs/thetv/golf-channel
 
-#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://assets.livednow.com/logo/Hallmark.png" group-title="TheTV", Hallmark
-http://192.168.0.1:1111/thetv/hallmark
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://assets.livednow.com/logo/Hallmark.png" group-title="综合", Hallmark
+https://pixman.zrzrzzz.sbs/thetv/hallmark
 
-#EXTINF:-1 tvg-id="Hallmark-Drama-HD" tvg-name="Hallmark Drama HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Drama-HD.png" group-title="TheTV", Hallmark Drama HD
-http://192.168.0.1:1111/thetv/hallmark-drama-hd
+#EXTINF:-1 tvg-id="Hallmark-Drama-HD" tvg-name="Hallmark Drama HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Drama-HD.png" group-title="综合", Hallmark Drama HD
+https://pixman.zrzrzzz.sbs/thetv/hallmark-drama-hd
 
-#EXTINF:-1 tvg-id="Hallmark-Movies-&-Mysteries-HD" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Movies-&-Mysteries-HD.png" group-title="TheTV", Hallmark Movies & Mysteries HD
-http://192.168.0.1:1111/thetv/hallmark-movies-mysteries-hd
+#EXTINF:-1 tvg-id="Hallmark-Movies-And-Mysteries-HD" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Movies-And-Mysteries-HD.png" group-title="综合", Hallmark Movies & Mysteries HD
+https://pixman.zrzrzzz.sbs/thetv/hallmark-movies-mysteries-hd
 
-#EXTINF:-1 tvg-id="HBO-2-East" tvg-name="HBO 2 East" tvg-logo="https://assets.livednow.com/logo/HBO-2-East.png" group-title="TheTV", HBO 2 East
-http://192.168.0.1:1111/thetv/hbo-2-east
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO East" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="综合", HBO East
+https://pixman.zrzrzzz.sbs/thetv/hbo-east
 
-#EXTINF:-1 tvg-id="HBO-Comedy-HD" tvg-name="HBO Comedy HD" tvg-logo="https://assets.livednow.com/logo/HBO-Comedy-HD.png" group-title="TheTV", HBO Comedy HD
-http://192.168.0.1:1111/thetv/hbo-comedy-hd
+#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2 East" tvg-logo="https://assets.livednow.com/logo/HBO-2.png" group-title="综合", HBO 2 East
+https://pixman.zrzrzzz.sbs/thetv/hbo-2-east
 
-#EXTINF:-1 tvg-id="HBO-East" tvg-name="HBO East" tvg-logo="https://assets.livednow.com/logo/HBO-East.png" group-title="TheTV", HBO East
-http://192.168.0.1:1111/thetv/hbo-east
+#EXTINF:-1 tvg-id="HBO-Comedy-HD" tvg-name="HBO Comedy HD" tvg-logo="https://assets.livednow.com/logo/HBO-Comedy-HD.png" group-title="综合", HBO Comedy HD
+https://pixman.zrzrzzz.sbs/thetv/hbo-comedy-hd
 
-#EXTINF:-1 tvg-id="HBO-Family-East" tvg-name="HBO Family East" tvg-logo="https://assets.livednow.com/logo/HBO-Family-East.png" group-title="TheTV", HBO Family East
-http://192.168.0.1:1111/thetv/hbo-family-east
+#EXTINF:-1 tvg-id="HBO-Family-East" tvg-name="HBO Family East" tvg-logo="https://assets.livednow.com/logo/HBO-Family-East.png" group-title="综合", HBO Family East
+https://pixman.zrzrzzz.sbs/thetv/hbo-family-east
 
-#EXTINF:-1 tvg-id="HBO-Signature" tvg-name="HBO Signature" tvg-logo="https://assets.livednow.com/logo/HBO-Signature.png" group-title="TheTV", HBO Signature
-http://192.168.0.1:1111/thetv/hbo-signature
+#EXTINF:-1 tvg-id="HBO-Signature" tvg-name="HBO Signature" tvg-logo="https://assets.livednow.com/logo/HBO-Signature.png" group-title="综合", HBO Signature
+https://pixman.zrzrzzz.sbs/thetv/hbo-signature
 
-#EXTINF:-1 tvg-id="HBO-Zone-HD" tvg-name="HBO Zone HD" tvg-logo="https://assets.livednow.com/logo/HBO-Zone-HD.png" group-title="TheTV", HBO Zone HD
-http://192.168.0.1:1111/thetv/hbo-zone-hd
+#EXTINF:-1 tvg-id="HBO-Zone-HD" tvg-name="HBO Zone HD" tvg-logo="https://assets.livednow.com/logo/HBO-Zone-HD.png" group-title="综合", HBO Zone HD
+https://pixman.zrzrzzz.sbs/thetv/hbo-zone-hd
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://assets.livednow.com/logo/HGTV.png" group-title="TheTV", HGTV
-http://192.168.0.1:1111/thetv/hgtv
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://assets.livednow.com/logo/HGTV.png" group-title="综合", HGTV
+https://pixman.zrzrzzz.sbs/thetv/hgtv
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="TheTV", History
-http://192.168.0.1:1111/thetv/history
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="综合", History
+https://pixman.zrzrzzz.sbs/thetv/history
 
-#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" tvg-logo="https://assets.livednow.com/logo/HLN.png" group-title="TheTV", HLN
-http://192.168.0.1:1111/thetv/hln
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" tvg-logo="https://assets.livednow.com/logo/HLN.png" group-title="综合", HLN
+https://pixman.zrzrzzz.sbs/thetv/hln
 
-#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://assets.livednow.com/logo/IFC.png" group-title="TheTV", IFC
-http://192.168.0.1:1111/thetv/ifc
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://assets.livednow.com/logo/IFC.png" group-title="综合", IFC
+https://pixman.zrzrzzz.sbs/thetv/ifc
 
-#EXTINF:-1 tvg-id="Investigation-Discovery" tvg-name="Investigation Discovery" tvg-logo="https://assets.livednow.com/logo/Investigation-Discovery.png" group-title="TheTV", Investigation Discovery
-http://192.168.0.1:1111/thetv/investigation-discovery
+#EXTINF:-1 tvg-id="Investigation-Discovery" tvg-name="Investigation Discovery" tvg-logo="https://assets.livednow.com/logo/Investigation-Discovery.png" group-title="综合", Investigation Discovery
+https://pixman.zrzrzzz.sbs/thetv/investigation-discovery
 
-#EXTINF:-1 tvg-id="ION-Television-East-HD" tvg-name="ION Television East HD" tvg-logo="https://assets.livednow.com/logo/ION-Television-East-HD.png" group-title="TheTV", ION Television East HD
-http://192.168.0.1:1111/thetv/ion-television-east-hd
+#EXTINF:-1 tvg-id="ION-Television-East-HD" tvg-name="ION Television East HD" tvg-logo="https://assets.livednow.com/logo/ION-Television-East-HD.png" group-title="综合", ION Television East HD
+https://pixman.zrzrzzz.sbs/thetv/ion-television-east-hd
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://assets.livednow.com/logo/Lifetime.png" group-title="TheTV", Lifetime
-http://192.168.0.1:1111/thetv/lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://assets.livednow.com/logo/Lifetime.png" group-title="综合", Lifetime
+https://pixman.zrzrzzz.sbs/thetv/lifetime
 
-#EXTINF:-1 tvg-id="LMN" tvg-name="LMN" tvg-logo="https://assets.livednow.com/logo/LMN.png" group-title="TheTV", LMN
-http://192.168.0.1:1111/thetv/lmn
+#EXTINF:-1 tvg-id="LMN" tvg-name="Lifetime Movies" tvg-logo="https://assets.livednow.com/logo/LMN.png" group-title="综合", Lifetime Movies
+https://pixman.zrzrzzz.sbs/thetv/lmn
 
-#EXTINF:-1 tvg-id="Logo" tvg-name="Logo" tvg-logo="https://assets.livednow.com/logo/Logo.png" group-title="TheTV", Logo
-http://192.168.0.1:1111/thetv/logo
+#EXTINF:-1 tvg-id="Logo" tvg-name="Logo" tvg-logo="https://assets.livednow.com/logo/Logo.png" group-title="综合", Logo
+https://pixman.zrzrzzz.sbs/thetv/logo
 
-#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="TheTV", MLB Network
-http://192.168.0.1:1111/thetv/mlb-network
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="综合", MLB Network
+https://pixman.zrzrzzz.sbs/thetv/mlb-network
 
-#EXTINF:-1 tvg-id="MoreMAX" tvg-name="MoreMAX" tvg-logo="https://assets.livednow.com/logo/MoreMAX.png" group-title="TheTV", MoreMAX
-http://192.168.0.1:1111/thetv/moremax
+#EXTINF:-1 tvg-id="MoreMAX" tvg-name="More MAX" tvg-logo="https://assets.livednow.com/logo/MoreMAX.png" group-title="综合", More MAX
+https://pixman.zrzrzzz.sbs/thetv/moremax
 
-#EXTINF:-1 tvg-id="MotorTrend-HD" tvg-name="MotorTrend HD" tvg-logo="https://assets.livednow.com/logo/MotorTrend-HD.png" group-title="TheTV", MotorTrend HD
-http://192.168.0.1:1111/thetv/motortrend-hd
+#EXTINF:-1 tvg-id="MotorTrend-HD" tvg-name="Motor Trend HD" tvg-logo="https://assets.livednow.com/logo/MotorTrend-HD.png" group-title="综合", Motor Trend HD
+https://pixman.zrzrzzz.sbs/thetv/motortrend-hd
 
-#EXTINF:-1 tvg-id="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://assets.livednow.com/logo/MovieMAX.png" group-title="TheTV", MovieMAX
-http://192.168.0.1:1111/thetv/moviemax
+#EXTINF:-1 tvg-id="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://assets.livednow.com/logo/MovieMAX.png" group-title="综合", MovieMAX
+https://pixman.zrzrzzz.sbs/thetv/moviemax
 
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://assets.livednow.com/logo/MSNBC.png" group-title="TheTV", MSNBC
-http://192.168.0.1:1111/thetv/msnbc
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://assets.livednow.com/logo/MSNBC.png" group-title="综合", MSNBC
+https://pixman.zrzrzzz.sbs/thetv/msnbc
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://assets.livednow.com/logo/MTV.png" group-title="TheTV", MTV
-http://192.168.0.1:1111/thetv/mtv
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://assets.livednow.com/logo/MTV.png" group-title="综合", MTV
+https://pixman.zrzrzzz.sbs/thetv/mtv
 
-#EXTINF:-1 tvg-id="Nat-Geo-WILD" tvg-name="Nat Geo WILD" tvg-logo="https://assets.livednow.com/logo/Nat-Geo-WILD.png" group-title="TheTV", Nat Geo WILD
-http://192.168.0.1:1111/thetv/nat-geo-wild
+#EXTINF:-1 tvg-id="National-Geographic" tvg-name="National Geographic" tvg-logo="https://assets.livednow.com/logo/National-Geographic.png" group-title="综合", National Geographic
+https://pixman.zrzrzzz.sbs/thetv/national-geographic
 
-#EXTINF:-1 tvg-id="National-Geographic" tvg-name="National Geographic" tvg-logo="https://assets.livednow.com/logo/National-Geographic.png" group-title="TheTV", National Geographic
-http://192.168.0.1:1111/thetv/national-geographic
+#EXTINF:-1 tvg-id="National-Geographic-Wild" tvg-name="National Geographic Wild" tvg-logo="https://assets.livednow.com/logo/National-Geographic-Wild.png" group-title="综合", National Geographic Wild
+https://pixman.zrzrzzz.sbs/thetv/nat-geo-wild
 
-#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="TheTV", NBA TV
-http://192.168.0.1:1111/thetv/nba-tv
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="综合", NBA TV
+https://pixman.zrzrzzz.sbs/thetv/nba-tv
 
-#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="TheTV", NFL Network
-http://192.168.0.1:1111/thetv/nfl-network
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="综合", NFL Network
+https://pixman.zrzrzzz.sbs/thetv/nfl-network
 
-#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="TheTV", NHL Network
-http://192.168.0.1:1111/thetv/nhl-network
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="综合", NHL Network
+https://pixman.zrzrzzz.sbs/thetv/nhl-network
 
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="TheTV", Nick Jr.
-http://192.168.0.1:1111/thetv/nick-jr
+#EXTINF:-1 tvg-id="Nick-Jr-US" tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr-US.png" group-title="综合", Nick Jr.
+https://pixman.zrzrzzz.sbs/thetv/nick-jr
 
-#EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon-East.png" group-title="TheTV", Nickelodeon East
-http://192.168.0.1:1111/thetv/nickelodeon-east
+#EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon-East.png" group-title="综合", Nickelodeon East
+https://pixman.zrzrzzz.sbs/thetv/nickelodeon-east
 
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://assets.livednow.com/logo/Nicktoons.png" group-title="TheTV", Nicktoons
-http://192.168.0.1:1111/thetv/nicktoons
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://assets.livednow.com/logo/Nicktoons.png" group-title="综合", Nicktoons
+https://pixman.zrzrzzz.sbs/thetv/nicktoons
 
-#EXTINF:-1 tvg-id="Outdoor-Channel" tvg-name="Outdoor Channel" tvg-logo="https://assets.livednow.com/logo/Outdoor-Channel.png" group-title="TheTV", Outdoor Channel
-http://192.168.0.1:1111/thetv/outdoor-channel
+#EXTINF:-1 tvg-id="Outdoor-Channel" tvg-name="Outdoor Channel" tvg-logo="https://assets.livednow.com/logo/Outdoor-Channel.png" group-title="综合", Outdoor Channel
+https://pixman.zrzrzzz.sbs/thetv/outdoor-channel
 
-#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-logo="https://assets.livednow.com/logo/OWN.png" group-title="TheTV", OWN
-http://192.168.0.1:1111/thetv/own
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-logo="https://assets.livednow.com/logo/OWN.png" group-title="综合", OWN
+https://pixman.zrzrzzz.sbs/thetv/own
 
-#EXTINF:-1 tvg-id="Oxygen-True-Crime" tvg-name="Oxygen True Crime" tvg-logo="https://assets.livednow.com/logo/Oxygen-True-Crime.png" group-title="TheTV", Oxygen True Crime
-http://192.168.0.1:1111/thetv/oxygen-true-crime
+#EXTINF:-1 tvg-id="Oxygen-True-Crime" tvg-name="Oxygen True Crime" tvg-logo="https://assets.livednow.com/logo/Oxygen-True-Crime.png" group-title="综合", Oxygen True Crime
+https://pixman.zrzrzzz.sbs/thetv/oxygen-true-crime
 
-#EXTINF:-1 tvg-id="PBS-13-(WNET)-New-York" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://assets.livednow.com/logo/PBS-13-(WNET)-New-York.png" group-title="TheTV", PBS 13 (WNET) New York
-http://192.168.0.1:1111/thetv/pbs-13-wnet-new-york
+#EXTINF:-1 tvg-id="WNET-New-York" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://assets.livednow.com/logo/WNET-New-York.png" group-title="综合", PBS 13 (WNET) New York
+https://pixman.zrzrzzz.sbs/thetv/pbs-13-wnet-new-york
 
-#EXTINF:-1 tvg-id="ReelzChannel" tvg-name="ReelzChannel" tvg-logo="https://assets.livednow.com/logo/ReelzChannel.png" group-title="TheTV", ReelzChannel
-http://192.168.0.1:1111/thetv/reelzchannel
+#EXTINF:-1 tvg-id="ReelzChannel" tvg-name="ReelzChannel" tvg-logo="https://assets.livednow.com/logo/ReelzChannel.png" group-title="综合", ReelzChannel
+https://pixman.zrzrzzz.sbs/thetv/reelzchannel
 
-#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-logo="https://assets.livednow.com/logo/Science.png" group-title="TheTV", Science
-http://192.168.0.1:1111/thetv/science
+#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-logo="https://assets.livednow.com/logo/Science.png" group-title="综合", Science
+https://pixman.zrzrzzz.sbs/thetv/science
 
-#EXTINF:-1 tvg-id="Showtime-(E)" tvg-name="Showtime (E)" tvg-logo="https://assets.livednow.com/logo/Showtime-(E).png" group-title="TheTV", Showtime (E)
-http://192.168.0.1:1111/thetv/showtime-e
+#EXTINF:-1 tvg-id="Showtime-Extreme" tvg-name="Showtime Extreme" tvg-logo="https://assets.livednow.com/logo/Showtime-Extreme.png" group-title="综合", Showtime Extreme
+https://pixman.zrzrzzz.sbs/thetv/showtime-e
 
-#EXTINF:-1 tvg-id="SHOWTIME-2" tvg-name="SHOWTIME 2" tvg-logo="https://assets.livednow.com/logo/SHOWTIME-2.png" group-title="TheTV", SHOWTIME 2
-http://192.168.0.1:1111/thetv/showtime-2
+#EXTINF:-1 tvg-id="Showtime-2" tvg-name="Showtime 2" tvg-logo="https://assets.livednow.com/logo/Showtime-2.png" group-title="综合", Showtime 2
+https://pixman.zrzrzzz.sbs/thetv/showtime-2
 
-#EXTINF:-1 tvg-id="STARZ-East" tvg-name="STARZ East" tvg-logo="https://assets.livednow.com/logo/STARZ-East.png" group-title="TheTV", STARZ East
-http://192.168.0.1:1111/thetv/starz-east
+#EXTINF:-1 tvg-id="STARZ-East" tvg-name="STARZ East" tvg-logo="https://assets.livednow.com/logo/STARZ-East.png" group-title="综合", STARZ East
+https://pixman.zrzrzzz.sbs/thetv/starz-east
 
-#EXTINF:-1 tvg-id="SundanceTV-HD" tvg-name="SundanceTV HD" tvg-logo="https://assets.livednow.com/logo/SundanceTV-HD.png" group-title="TheTV", SundanceTV HD
-http://192.168.0.1:1111/thetv/sundancetv-hd
+#EXTINF:-1 tvg-id="Sundance-TV" tvg-name="Sundance TV" tvg-logo="https://assets.livednow.com/logo/Sundance-TV.png" group-title="综合", Sundance TV
+https://pixman.zrzrzzz.sbs/thetv/sundancetv-hd
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://assets.livednow.com/logo/SYFY.png" group-title="TheTV", SYFY
-http://192.168.0.1:1111/thetv/syfy
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://assets.livednow.com/logo/SYFY.png" group-title="综合", SYFY
+https://pixman.zrzrzzz.sbs/thetv/syfy
 
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://assets.livednow.com/logo/TBS.png" group-title="TheTV", TBS
-http://192.168.0.1:1111/thetv/tbs
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://assets.livednow.com/logo/TBS.png" group-title="综合", TBS
+https://pixman.zrzrzzz.sbs/thetv/tbs
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://assets.livednow.com/logo/TCM.png" group-title="TheTV", TCM
-http://192.168.0.1:1111/thetv/tcm
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://assets.livednow.com/logo/TCM.png" group-title="综合", TCM
+https://pixman.zrzrzzz.sbs/thetv/tcm
 
-#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="https://assets.livednow.com/logo/TeenNick.png" group-title="TheTV", TeenNick
-http://192.168.0.1:1111/thetv/teennick
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="https://assets.livednow.com/logo/TeenNick.png" group-title="综合", TeenNick
+https://pixman.zrzrzzz.sbs/thetv/teennick
 
-#EXTINF:-1 tvg-id="Telemundo-East" tvg-name="Telemundo East" tvg-logo="https://assets.livednow.com/logo/Telemundo-East.png" group-title="TheTV", Telemundo East
-http://192.168.0.1:1111/thetv/telemundo-east
+#EXTINF:-1 tvg-id="Telemundo-East" tvg-name="Telemundo East" tvg-logo="https://assets.livednow.com/logo/Telemundo-East.png" group-title="综合", Telemundo East
+https://pixman.zrzrzzz.sbs/thetv/telemundo-east
 
-#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="TheTV", Tennis Channel
-http://192.168.0.1:1111/thetv/tennis-channel
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="综合", Tennis Channel
+https://pixman.zrzrzzz.sbs/thetv/tennis-channel
 
-#EXTINF:-1 tvg-id="The-CW-(WPIX-New-York)" tvg-name="The CW (WPIX New York)" tvg-logo="https://assets.livednow.com/logo/The-CW-(WPIX-New-York).png" group-title="TheTV", The CW (WPIX New York)
-http://192.168.0.1:1111/thetv/the-cw
+#EXTINF:-1 tvg-id="WPIX-New-York" tvg-name="The CW (WPIX New York)" tvg-logo="https://assets.livednow.com/logo/WPIX-New-York.png" group-title="综合", The CW (WPIX New York)
+https://pixman.zrzrzzz.sbs/thetv/the-cw
 
-#EXTINF:-1 tvg-id="The-Movie-Channel-East" tvg-name="The Movie Channel East" tvg-logo="https://assets.livednow.com/logo/The-Movie-Channel-East.png" group-title="TheTV", The Movie Channel East
-http://192.168.0.1:1111/thetv/the-movie-channel-east
+#EXTINF:-1 tvg-id="The-Movie-Channel-East" tvg-name="The Movie Channel East" tvg-logo="https://assets.livednow.com/logo/The-Movie-Channel-East.png" group-title="综合", The Movie Channel East
+https://pixman.zrzrzzz.sbs/thetv/the-movie-channel-east
 
-#EXTINF:-1 tvg-id="The-Weather-Channel" tvg-name="The Weather Channel" tvg-logo="https://assets.livednow.com/logo/The-Weather-Channel.png" group-title="TheTV", The Weather Channel
-http://192.168.0.1:1111/thetv/the-weather-channel
+#EXTINF:-1 tvg-id="The-Weather-Channel" tvg-name="The Weather Channel" tvg-logo="https://assets.livednow.com/logo/The-Weather-Channel.png" group-title="综合", The Weather Channel
+https://pixman.zrzrzzz.sbs/thetv/the-weather-channel
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets.livednow.com/logo/TLC.png" group-title="TheTV", TLC
-http://192.168.0.1:1111/thetv/tlc
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets.livednow.com/logo/TLC.png" group-title="综合", TLC
+https://pixman.zrzrzzz.sbs/thetv/tlc
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://assets.livednow.com/logo/TNT.png" group-title="TheTV", TNT
-http://192.168.0.1:1111/thetv/tnt
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://assets.livednow.com/logo/TNT.png" group-title="综合", TNT
+https://pixman.zrzrzzz.sbs/thetv/tnt
 
-#EXTINF:-1 tvg-id="Travel-Channel" tvg-name="Travel Channel" tvg-logo="https://assets.livednow.com/logo/Travel-Channel.png" group-title="TheTV", Travel Channel
-http://192.168.0.1:1111/thetv/travel-channel
+#EXTINF:-1 tvg-id="Travel-Channel" tvg-name="Travel Channel" tvg-logo="https://assets.livednow.com/logo/Travel-Channel.png" group-title="综合", Travel Channel
+https://pixman.zrzrzzz.sbs/thetv/travel-channel
 
-#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://assets.livednow.com/logo/truTV.png" group-title="TheTV", truTV
-http://192.168.0.1:1111/thetv/trutv
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://assets.livednow.com/logo/truTV.png" group-title="综合", truTV
+https://pixman.zrzrzzz.sbs/thetv/trutv
 
-#EXTINF:-1 tvg-id="TV-One-HD" tvg-name="TV One HD" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="TheTV", TV One HD
-http://192.168.0.1:1111/thetv/tv-one-hd
+#EXTINF:-1 tvg-id="TV-One-HD" tvg-name="TV One HD" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="综合", TV One HD
+https://pixman.zrzrzzz.sbs/thetv/tv-one-hd
 
-#EXTINF:-1 tvg-id="Universal-Kids" tvg-name="Universal Kids" tvg-logo="https://assets.livednow.com/logo/Universal-Kids.png" group-title="TheTV", Universal Kids
-http://192.168.0.1:1111/thetv/universal-kids
+#EXTINF:-1 tvg-id="Universal-Kids" tvg-name="Universal Kids" tvg-logo="https://assets.livednow.com/logo/Universal-Kids.png" group-title="综合", Universal Kids
+https://pixman.zrzrzzz.sbs/thetv/universal-kids
 
-#EXTINF:-1 tvg-id="Univision-East" tvg-name="Univision East" tvg-logo="https://assets.livednow.com/logo/Univision-East.png" group-title="TheTV", Univision East
-http://192.168.0.1:1111/thetv/univision-east
+#EXTINF:-1 tvg-id="Univision-East" tvg-name="Univision East" tvg-logo="https://assets.livednow.com/logo/Univision-East.png" group-title="综合", Univision East
+https://pixman.zrzrzzz.sbs/thetv/univision-east
 
-#EXTINF:-1 tvg-id="USA-Network" tvg-name="USA Network" tvg-logo="https://assets.livednow.com/logo/USA-Network.png" group-title="TheTV", USA Network
-http://192.168.0.1:1111/thetv/usa-network
+#EXTINF:-1 tvg-id="USA-Network" tvg-name="USA Network" tvg-logo="https://assets.livednow.com/logo/USA-Network.png" group-title="综合", USA Network
+https://pixman.zrzrzzz.sbs/thetv/usa-network
 
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://assets.livednow.com/logo/VH1.png" group-title="TheTV", VH1
-http://192.168.0.1:1111/thetv/vh1
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://assets.livednow.com/logo/VH1.png" group-title="综合", VH1
+https://pixman.zrzrzzz.sbs/thetv/vh1
 
-#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" tvg-logo="https://assets.livednow.com/logo/VICE.png" group-title="TheTV", VICE
-http://192.168.0.1:1111/thetv/vice
+#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" tvg-logo="https://assets.livednow.com/logo/VICE.png" group-title="综合", VICE
+https://pixman.zrzrzzz.sbs/thetv/vice
 
-#EXTINF:-1 tvg-id="WABC-(New-York)-ABC-East" tvg-name="WABC (New York) ABC East" tvg-logo="https://assets.livednow.com/logo/WABC-(New-York)-ABC-East.png" group-title="TheTV", WABC (New York) ABC East
-http://192.168.0.1:1111/thetv/wabc-new-york-abc-east
+#EXTINF:-1 tvg-id="WABC-New-York-ABC-East" tvg-name="WABC (New York) ABC East" tvg-logo="https://assets.livednow.com/logo/WABC-New-York-ABC-East.png" group-title="综合", WABC (New York) ABC East
+https://pixman.zrzrzzz.sbs/thetv/wabc-new-york-abc-east
 
-#EXTINF:-1 tvg-id="WCBS-(New-York)-CBS-East" tvg-name="WCBS (New York) CBS East" tvg-logo="https://assets.livednow.com/logo/WCBS-(New-York)-CBS-East.png" group-title="TheTV", WCBS (New York) CBS East
-http://192.168.0.1:1111/thetv/wcbs-new-york-cbs-east
+#EXTINF:-1 tvg-id="WCBS-New-York-CBS-East" tvg-name="WCBS (New York) CBS East" tvg-logo="https://assets.livednow.com/logo/WCBS-New-York-CBS-East.png" group-title="综合", WCBS (New York) CBS East
+https://pixman.zrzrzzz.sbs/thetv/wcbs-new-york-cbs-east
 
-#EXTINF:-1 tvg-id="WE-tv" tvg-name="WE tv" tvg-logo="https://assets.livednow.com/logo/WE-tv.png" group-title="TheTV", WE tv
-http://192.168.0.1:1111/thetv/we-tv
+#EXTINF:-1 tvg-id="WE-tv" tvg-name="WE tv" tvg-logo="https://assets.livednow.com/logo/WE-tv.png" group-title="综合", WE tv
+https://pixman.zrzrzzz.sbs/thetv/we-tv
 
-#EXTINF:-1 tvg-id="WNBC-(New-York)-NBC-East" tvg-name="WNBC (New York) NBC East" tvg-logo="https://assets.livednow.com/logo/WNBC-(New-York)-NBC-East.png" group-title="TheTV", WNBC (New York) NBC East
-http://192.168.0.1:1111/thetv/wnbc-new-york-nbc-east
+#EXTINF:-1 tvg-id="WNBC-New-York-NBC-East" tvg-name="WNBC (New York) NBC East" tvg-logo="https://assets.livednow.com/logo/WNBC-New-York-NBC-East.png" group-title="综合", WNBC (New York) NBC East
+https://pixman.zrzrzzz.sbs/thetv/wnbc-new-york-nbc-east
 
-#EXTINF:-1 tvg-id="WNYW-(New-York)-FOX-East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://assets.livednow.com/logo/WNYW-(New-York)-FOX-East.png" group-title="TheTV", WNYW (New York) FOX East
-http://192.168.0.1:1111/thetv/wnyw-new-york-fox-east
+#EXTINF:-1 tvg-id="WNYW-New-York-FOX-East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://assets.livednow.com/logo/WNYW-New-York-FOX-East.png" group-title="综合", WNYW (New York) FOX East
+https://pixman.zrzrzzz.sbs/thetv/wnyw-new-york-fox-east
 
