@@ -54,13 +54,13 @@ http://192.168.0.1:1111/itv/ystenlive/1000000006000233002
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 4K
 http://192.168.0.1:1111/itv/bestzb/5000000008000023254
 
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视备用",CCTV 16 4K HDR
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视",CCTV 16 4K HDR
 http://192.168.0.1:1112/ysptp/cctv4k16_10m.m3u8
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265015
 
-#EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV 4k" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视备用",CCTV 4k HDR
+#EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV 4k" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV 4k HDR
 http://192.168.0.1:1112/ysptp/cctv4k_10m.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视", CGTN
