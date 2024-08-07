@@ -1,3 +1,5 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视", 安徽卫视
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265025
