@@ -486,3 +486,6 @@ http://192.168.0.1:1111/itv/wasusyt/6000000006000180630
 
 #EXTINF:-1 tvg-id="iHOT-爱院线" tvg-name="iHOT 爱院线" tvg-logo="https://assets.livednow.com/logo/iHOT-爱院线.png" group-title="其他", iHOT 爱院线
 http://192.168.0.1:1111/itv/wasusyt/6000000006000030630
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",王者荣耀赛事
+http://live.iill.top/huya.php?id=660002
