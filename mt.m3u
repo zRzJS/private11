@@ -39,10 +39,42 @@ http://192.168.0.1:1111/itv/ystenlive/1000000006000233002
 http://192.168.0.1:1111/itv/bestzb/5000000008000023254          
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265015            
+#EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV 4K
+http://192.168.0.1:1112/ysptp/cctv4k_10m.m3u8
+#EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV 4K
+http://192.168.0.1:1112/ysptp/cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视",CCTV 8K
+http://192.168.0.1:1112/ysptp/cctv8k_36m.m3u8
+#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视",CCTV 8K
+http://192.168.0.1:1112/ysptp/cctv8k_120m.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视", CGTN  
 http://192.168.0.1:1111/itv/hnbblive/7745129417417101820         
 #EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 记录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="央视", CGTN 记录
-http://192.168.0.1:1111/itv/hnbblive/7114647837765104058         
+http://192.168.0.1:1111/itv/hnbblive/7114647837765104058       
+#EXTINF:-1 tvg-id="CGTN-俄语" tvg-name="CGTN 俄语" tvg-logo="https://assets.livednow.com/logo/CGTN-俄语.png" group-title="央视",CGTN 俄语
+http://192.168.0.1:1113/demo.php/G_CGTN-PYCCNN/index.m3u8
+#EXTINF:-1 tvg-id="CGTN-法语" tvg-name="CGTN 法语" tvg-logo="https://assets.livednow.com/logo/CGTN-法语.png" group-title="央视",CGTN 法语
+http://192.168.0.1:1113/demo.php/G_CGTN-FRANCAIS/index.m3u8
+#EXTINF:-1 tvg-id="CGTN-西班牙语" tvg-name="CGTN 西班牙语" tvg-logo="https://assets.livednow.com/logo/CGTN-西班牙语.png" group-title="央视",CGTN 西班牙语
+http://192.168.0.1:1113/demo.php/G_CGTN-ESPANOL/index.m3u8
+#EXTINF:-1 tvg-id="CGTN-阿拉伯语" tvg-name="CGTN 阿拉伯语" tvg-logo="https://assets.livednow.com/logo/CGTN-阿拉伯语.png" group-title="央视",CGTN 阿拉伯语
+http://192.168.0.1:1113/demo.php/G_CGTN_A/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://assets.livednow.com/logo/CCTV-女性时尚.png" group-title="央视",CCTV 女性时尚
+http://192.168.0.1:1113/demo.php/G_NVXINGSS-CQ/index.m3u8
+#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="其他",中国教育电视台 1
+http://192.168.0.1:1113/demo.php/G_CETV-1-HQ/index.m3u8
+#EXTINF:-1 tvg-id="中国教育电视台-2" tvg-name="中国教育电视台 2" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-2.png" group-title="其他",中国教育电视台 2
+http://192.168.0.1:1113/demo.php/G_CETV-2/index.m3u8
+#EXTINF:-1 tvg-id="中国教育电视台-3" tvg-name="中国教育电视台 3" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-3.png" group-title="其他",中国教育电视台 3
+http://192.168.0.1:1113/demo.php/G_CETV-3/index.m3u8
+#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="其他",中国教育电视台 4
+http://192.168.0.1:1113/demo.php/G_CETV-4/index.m3u8
+#EXTINF:-1 tvg-id="CETV-早期教育" tvg-name="CETV 早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="其他",CETV 早期教育
+http://192.168.0.1:1113/demo.php/G_CETV-ZQJY-CQ/index.m3u8
+#EXTINF:-1 tvg-id="中央新影发现之旅" tvg-name="中央新影发现之旅" tvg-logo="https://assets.livednow.com/logo/中央新影发现之旅.png" group-title="央视",中央新影发现之旅
+http://192.168.0.1:1113/demo.php/G_FAXIANZL/index.m3u8
+#EXTINF:-1 tvg-id="中央新影老故事" tvg-name="中央新影老故事" tvg-logo="https://assets.livednow.com/logo/中央新影老故事.png" group-title="央视",中央新影老故事
+http://192.168.0.1:1113/demo.php/G_LAOGUSHI/index.m3u8
 #EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视", 中国教育电视台 1
 http://192.168.0.1:1111/itv/bestzb/5000000002000002652    
 #EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视", 中国教育电视台 4
@@ -88,30 +120,8 @@ http://192.168.0.1:1113/demo.php/G_CCTV-16-CQ/index.m3u8
 http://192.168.0.1:1113/demo.php/G_CCTV-17-CQ/index.m3u8
 #EXTINF:-1 tvg-id="news" tvg-name="news" tvg-logo="https://assets.livednow.com/logo/news.png" group-title="央视",CGTN
 http://192.168.0.1:1113/demo.php/G_CCTV-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CGTN-俄语" tvg-name="CGTN 俄语" tvg-logo="https://assets.livednow.com/logo/CGTN-俄语.png" group-title="央视",CGTN 俄语
-http://192.168.0.1:1113/demo.php/G_CGTN-PYCCNN/index.m3u8
-#EXTINF:-1 tvg-id="CGTN-西班牙语" tvg-name="CGTN 西班牙语" tvg-logo="https://assets.livednow.com/logo/CGTN-西班牙语.png" group-title="央视",CGTN 西班牙语
-http://192.168.0.1:1113/demo.php/G_CGTN-ESPANOL/index.m3u8
-#EXTINF:-1 tvg-id="CGTN-法语" tvg-name="CGTN 法语" tvg-logo="https://assets.livednow.com/logo/CGTN-法语.png" group-title="央视",CGTN 法语
-http://192.168.0.1:1113/demo.php/G_CGTN-FRANCAIS/index.m3u8
-#EXTINF:-1 tvg-id="CGTN-阿拉伯语" tvg-name="CGTN 阿拉伯语" tvg-logo="https://assets.livednow.com/logo/CGTN-阿拉伯语.png" group-title="央视",CGTN 阿拉伯语
-http://192.168.0.1:1113/demo.php/G_CGTN_A/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://assets.livednow.com/logo/CCTV-女性时尚.png" group-title="央视",CCTV 女性时尚
-http://192.168.0.1:1113/demo.php/G_NVXINGSS-CQ/index.m3u8
-#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/cetv1.png" group-title="其他",中国教育电视台 1
-http://192.168.0.1:1113/demo.php/G_CETV-1-HQ/index.m3u8
-#EXTINF:-1 tvg-id="中国教育电视台-2" tvg-name="中国教育电视台 2" tvg-logo="https://assets.livednow.com/logo/CETV2.png" group-title="其他",中国教育电视台 2
-http://192.168.0.1:1113/demo.php/G_CETV-2/index.m3u8
-#EXTINF:-1 tvg-id="中国教育电视台-3" tvg-name="中国教育电视台 3" tvg-logo="https://assets.livednow.com/logo/CETV3.png" group-title="其他",中国教育电视台 3
-http://192.168.0.1:1113/demo.php/G_CETV-3/index.m3u8
-#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/cetv4.png" group-title="其他",中国教育电视台 4
-http://192.168.0.1:1113/demo.php/G_CETV-4/index.m3u8
-#EXTINF:-1 tvg-id="CETV-早期教育" tvg-name="CETV 早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="其他",CETV 早期教育
-http://192.168.0.1:1113/demo.php/G_CETV-ZQJY-CQ/index.m3u8
-#EXTINF:-1 tvg-id="中央新影发现之旅" tvg-name="中央新影发现之旅" tvg-logo="https://assets.livednow.com/logo/中央新影发现之旅.png" group-title="央视",中央新影发现之旅
-http://192.168.0.1:1113/demo.php/G_FAXIANZL/index.m3u8
-#EXTINF:-1 tvg-id="中央新影老故事" tvg-name="中央新影老故事" tvg-logo="https://assets.livednow.com/logo/中央新影老故事.png" group-title="央视",中央新影老故事
-http://192.168.0.1:1113/demo.php/G_LAOGUSHI/index.m3u8
+
+
 
 
 
@@ -241,14 +251,6 @@ http://192.168.0.1:1112/ysptp/cctv17.m3u8
 http://192.168.0.1:1112/itv/1000000006000268004.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV 17
 http://192.168.0.1:1112/itv/1000000005000265015.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV 4K
-http://192.168.0.1:1112/ysptp/cctv4k_10m.m3u8
-#EXTINF:-1,tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV 4K
-http://192.168.0.1:1112/ysptp/cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视",CCTV 8K
-http://192.168.0.1:1112/ysptp/cctv8k_36m.m3u8
-#EXTINF:-1,tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视",CCTV 8K
-http://192.168.0.1:1112/ysptp/cctv8k_120m.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视",CGTN
 http://192.168.0.1:1112/itv/7745129417417101820.m3u8?cdn=hnbblive
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视",CGTN
@@ -423,7 +425,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8      
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV 17
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8      
-#EXTINF:-1 tvg-id="CCTV 4K" tvg-name="CCTV4K" tvg-logo="https://assets.livednow.com/logo/CCTV4K.png" group-title="央视",CCTV 4K
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV4K.png" group-title="央视",CCTV 4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8      
 
 
