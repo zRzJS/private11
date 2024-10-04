@@ -830,10 +830,13 @@ http://192.168.0.1:1111/itv/wasusyt/6000000006000180630
 http://192.168.0.1:1111/itv/wasusyt/6000000006000030630
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",王者荣耀赛事
-http://live.iill.top/huya.php?id=660002
+http://192.168.1.31:6688//huya/660002?media=flv&cdn=alicdn
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.2:1114/huya/660002?media=hls&cdn=alicdn
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="NBA",王者荣耀赛事
+https://live.iill.top/douyu.php?id=1863767
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",英雄联盟赛事
-https://www.goodiptv.club/huya/s4k
+http://192.168.1.31:6688/huya/18524915?media=hls&cdn=alicdn
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="NBA",英雄联盟赛事
+https://live.iill.top/bilibili.php?id=10
