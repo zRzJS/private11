@@ -988,7 +988,7 @@ http://192.168.0.1:1112/tptv/HD-8000k-1080P-miguaoyun2.m3u8
 http://192.168.0.1:1112/tptv/HD-8000k-1080P-quanminrl.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.v1.mk/logo/黑莓电影.png" group-title="其他",黑莓电影
 http://192.168.0.1:1112/tptv/HD-8000k-1080P-Supermovie.m3u8
-#EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="NewTV 炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="NEWTV",NewTV 炫舞未来
+#EXTINF:-1,tvg-id="newtv炫舞未来" tvg-name="NewTV 炫舞未来" tvg-logo="https://epg.v1.mk/logo/newtv炫舞未来.png" group-title="其他",NewTV 炫舞未来
 http://192.168.0.1:1112/tptv/HD-4000k-1080P-xwwl.m3u8
 #EXTINF:-1,tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png" group-title="其他",南京新闻综合
 http://192.168.0.1:1112/tptv/G_NJXW.m3u8
