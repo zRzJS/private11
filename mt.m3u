@@ -1058,7 +1058,7 @@ http://192.168.0.1:1112/tptv/pzzonghe.m3u8
 http://192.168.0.1:1112/tptv/pzzongyi.m3u8
 #EXTINF:-1,tvg-id="赣榆电视台" tvg-name="赣榆电视台" tvg-logo="https://epg.v1.mk/logo/赣榆电视台.png" group-title="其他",赣榆新闻综合
 http://192.168.0.1:1112/tptv/HD-2500k-1080P-ganyutv.m3u8
-#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="江苏",江苏仪化电视
+#EXTINF:-1,tvg-id="江苏4K" tvg-name="江苏4K" tvg-logo="https://epg.v1.mk/logo/江苏4K.png" group-title="其他",江苏仪化电视
 http://192.168.0.1:1112/tptv/HD-4000k-1080P-jsyihua.m3u8
 #EXTINF:-1,tvg-id="IHOT爱猎奇" tvg-name="IHOT爱猎奇" tvg-logo="https://epg.v1.mk/logo/IHOT爱猎奇.png" group-title="其他",猎冰
 http://192.168.0.1:1112/tptv/cos-liebing.m3u8
