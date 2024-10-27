@@ -2,15 +2,25 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV 1 4K
+http://192.168.0.1:1112/tptv/G_CCTV-1-AVS-4K264.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265001            
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视", CCTV 2
 http://192.168.0.1:1111/itv/ystenlive/1000000001000023315         
+
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV 3 4K
+http://192.168.0.1:1112/tptv/G_CCTV-3-AVS-4K264.m3u8
+
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265003          
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视", CCTV 4
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265004          
+
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV 5 4K
+http://192.168.0.1:1112/tptv/G_CCTV-5-AVS-4K264.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5
 http://192.168.0.1:1111/itv/ystenlive/1000000005000265005           
 #EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+ 
@@ -55,22 +65,23 @@ http://192.168.0.1:1111/itv/hnbblive/7745129417417101820
 http://192.168.0.1:1111/itv/hnbblive/7114647837765104058       
 #EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视", 中国教育电视台 1
 http://192.168.0.1:1111/itv/bestzb/5000000002000002652    
+
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视",中国教育电视台 2
+http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8   
+
 #EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视", 中国教育电视台 4
 http://192.168.0.1:1111/itv/bestzb/5000000011000031126         
 
 
 
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV 1 4K
-http://192.168.0.1:1112/tptv/G_CCTV-1-AVS-4K264.m3u8
+
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV 2
 http://192.168.0.1:1112/tptv/G_CCTV-2-HD-265-8M.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV 3 4K
-http://192.168.0.1:1112/tptv/G_CCTV-3-AVS-4K264.m3u8
+
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV 4
 http://192.168.0.1:1112/tptv/G_CCTV-4-HD-265-8M.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV 5 4K
-http://192.168.0.1:1112/tptv/G_CCTV-5-AVS-4K264.m3u8
+
 #EXTINF:-1,tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV 5+
 http://192.168.0.1:1112/tptv/G_CCTV-5PLUS-HD-265-8M.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV 6
@@ -123,6 +134,10 @@ http://192.168.0.1:1112/tptv/G_DIANSHIZN-CQ.m3u8
 http://192.168.0.1:1112/tptv/G_DIYIJC-CQ.m3u8
 #EXTINF:-1,tvg-id="CCTV-怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://assets.livednow.com/logo/CCTV-怀旧剧场.png" group-title="央视",CCTV 怀旧剧场
 http://192.168.0.1:1112/tptv/G_HUAIJIUJC-CQ.m3u8
+
+#EXTINF:-1 tvg-id="CCTV-卫生健康" tvg-name="CCTV 卫生健康" tvg-logo="https://assets.livednow.com/logo/CCTV-卫生健康.png" group-title="央视", CCTV 卫生健康 
+http://192.168.0.1:1111/ysp/cctv-weishengjiankang  
+
 #EXTINF:-1,tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://assets.livednow.com/logo/CCTV-央视文化精品.png" group-title="央视",CCTV 央视文化精品
 http://192.168.0.1:1112/tptv/G_CCTV-WENHUA-CQ.m3u8
 #EXTINF:-1,tvg-id="CETV-早期教育" tvg-name="CETV 早期教育" tvg-logo="https://assets.livednow.com/logo/CETV-早期教育.png" group-title="央视",CETV 早期教育
@@ -353,8 +368,7 @@ http://192.168.0.1:1111/ysp/cctv-gaoerfuwangqiu
 http://192.168.0.1:1111/ysp/cctv-shijiedili        
 #EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV 女性时尚" tvg-logo="https://assets.livednow.com/logo/CCTV-女性时尚.png" group-title="央视", CCTV 女性时尚 
 http://192.168.0.1:1111/ysp/cctv-nvxingshishang        
-#EXTINF:-1 tvg-id="CCTV-卫生健康" tvg-name="CCTV 卫生健康" tvg-logo="https://assets.livednow.com/logo/CCTV-卫生健康.png" group-title="央视", CCTV 卫生健康 
-http://192.168.0.1:1111/ysp/cctv-weishengjiankang        
+      
 #EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-name="CCTV 央视文化精品" tvg-logo="https://assets.livednow.com/logo/CCTV-央视文化精品.png" group-title="央视", CCTV 央视文化精品 
 http://192.168.0.1:1111/ysp/cctv-wenhuajingpin        
 #EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV 电视指南" tvg-logo="https://assets.livednow.com/logo/CCTV-电视指南.png" group-title="央视", CCTV 电视指南 
@@ -438,8 +452,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8      
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",中国教育电视台 1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8   
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视",中国教育电视台 2
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8   
+
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视",中国教育电视台 4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8  
 
