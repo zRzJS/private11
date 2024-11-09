@@ -844,20 +844,11 @@ http://192.168.0.1:1111/itv/wasusyt/6000000006000030630
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:1112/bilibili/21144080?platform=hls&line=first&quality=4
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:1112/douyu/1863767?stream=flv
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",英雄联盟赛事
-http://192.168.0.1:1112/huya/18524915?media=hls&cdn=alicdn
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="NBA",英雄联盟赛事
-http://192.168.0.1:1112/bilibili/504273?platform=hls&line=first&quality=4
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
+http://192.168.0.1:1112/ysptp/cctv5.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
+http://192.168.0.1:1112/itv/1000000005000025222.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
+http://192.168.0.1:1112/itv/1000000005000265005.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="ELTA體育-1台" tvg-name=" 愛爾達體育1台" tvg-logo="https://assets.livednow.com/logo/ELTA體育-1台.png" group-title="NBA", 愛爾達體育1台
+https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001744
