@@ -752,13 +752,13 @@ http://192.168.0.1:1112/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:6688/huya/660002?media=flv&cdn=hwcdn
+http://192.168.0.1:35455/huya/660002?media=flv&cdn=hwcdn
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:6688/bilibili/21144080?platform=hls&line=first&quality=4
+http://192.168.0.1:35455/bilibili/21144080?platform=hls&line=first&quality=4
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:6688/douyu/1863767?stream=flv
+http://192.168.0.1:35455/douyu/1863767?stream=flv
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
 http://192.168.0.1:1112/ysptp/cctv5.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
