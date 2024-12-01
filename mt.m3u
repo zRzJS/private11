@@ -765,5 +765,3 @@ http://192.168.0.1:1112/ysptp/cctv5.m3u8
 http://192.168.0.1:1112/itv/1000000005000025222.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
 http://192.168.0.1:1112/itv/1000000005000265005.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="ELTA體育-1台" tvg-name=" 愛爾達體育1台" tvg-logo="https://assets.livednow.com/logo/ELTA體育-1台.png" group-title="NBA", 愛爾達體育1台
-https://caonimaya.hg16888.vip/hami/OTT_LIVE_0000001744
