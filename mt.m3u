@@ -671,13 +671,13 @@ http://192.168.0.1:1112/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="NBA",王者荣耀赛事
-https://hw-game.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=54b086b4145418f5453d9527e95ee972\u0026wsTime=674e9b60\u0026u=1468446988471\u0026seqid=17331184330936723\u0026txyp=\u0026sphdcdn=\u0026sphdDC=\u0026sphd=\u0026exsphd=\u0026ratio=0
+http://192.168.0.1:1112/huya/660002?cdn=alicdn
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:35455/bilibili/21144080?platform=hls&line=first&quality=4
+http://192.168.0.1:1112/bilibili/21144080?platform=hls&line=first&quality=4
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="NBA",王者荣耀赛事
-http://192.168.0.1:35455/douyu/1863767?stream=flv
+http://192.168.0.1:1112/douyu/1863767?stream=flv
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
 http://192.168.0.1:1112/ysptp/cctv5.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
