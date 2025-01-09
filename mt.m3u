@@ -703,12 +703,12 @@ http://192.168.0.1:1112/bilibili/21144080?platform=hls&line=first&quality=4
 #EXTINF:-1 tvg-logo="https://game.gtimg.cn/images/yxzj/pvpcommonimage/header/logo.png" group-title="NBA",王者荣耀赛事
 http://192.168.0.1:1112/douyu/1863767?stream=flv
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/爱尔达体育1.png"group-title="NBA",愛爾達體育 1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/爱尔达体育1.png"group-title="其他",愛爾達體育 1
 http://192.168.0.1:1113/stream/zrz/null/master.m3u8?u=admin&p=d44db6460f87ae6304119f814c9df86f1acabbad6b7c3560546a42f827dadcc5
 
-#EXTINF:-1 tvg-id="纬来体育台"tvg-name="纬来体育台"tvg-logo="https://epg.iill.top/logo/纬来体育.png"group-title="NBA",緯來體育
+#EXTINF:-1 tvg-id="纬来体育台"tvg-name="纬来体育台"tvg-logo="https://epg.iill.top/logo/纬来体育.png"group-title="其他",緯來體育
 http://192.168.0.1:1113/stream/zrz/null-1/master.m3u8?u=admin&p=d44db6460f87ae6304119f814c9df86f1acabbad6b7c3560546a42f827dadcc5
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch641_300_216"group-title="NBA",NowSports641
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch641_300_216"group-title="其他",NowSports641
 http://192.168.0.1:1113/stream/zrz/nowsport641/master.m3u8?u=admin&p=d44db6460f87ae6304119f814c9df86f1acabbad6b7c3560546a42f827dadcc5
 
