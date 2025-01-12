@@ -739,6 +739,7 @@ http://192.168.0.1:1112/bilibili/21144080?platform=hls&line=first&quality=4
 http://192.168.0.1:1112/douyu/1863767?stream=flv
 
 #EXTINF:-1,tvg-id="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="NBA",CCTV 5
+http://192.168.0.1:1112/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
 http://192.168.0.1:1119/ysptp/cctv5.m3u8
 http://192.168.0.1:1112/gaoma/cctv5.m3u8
 
